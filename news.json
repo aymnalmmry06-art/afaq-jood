@@ -60,66 +60,6 @@
     "updatedAt": "2026-09-14T00:00:00Z"
   },
   {
-    "id": "reg-algeria-2026-2697",
-    "slug": "algeria-arpce-executive-decree-26-97-approval",
-    "countryCode": "DZ",
-    "country": "Algeria",
-    "countrySlug": "algeria",
-    "countryName": {
-      "en": "Algeria",
-      "ar": "الجزائر",
-      "zh": "阿尔及利亚"
-    },
-    "authority": "ARPCE",
-    "category": {
-      "en": "Regulatory Update",
-      "ar": "تحديث تنظيمي",
-      "zh": "法规更新"
-    },
-    "date": "2026-02-23",
-    "author": "AFAQ JOOD Regulatory Intelligence Team",
-    "impact": "high",
-    "products": [
-      "Telecom Equipment",
-      "Wi-Fi & Bluetooth",
-      "Cellular / 4G / 5G",
-      "IoT Devices"
-    ],
-    "tags": [
-      "Algeria",
-      "ARPCE",
-      "Decree 26-97",
-      "Homologation"
-    ],
-    "title": {
-      "en": "Algeria updates electronic communications equipment approval framework",
-      "ar": "الجزائر تحدّث إطار المصادقة على تجهيزات الاتصالات الإلكترونية",
-      "zh": "阿尔及利亚更新电子通信设备认证框架"
-    },
-    "summary": {
-      "en": "ARPCE announced publication of Executive Decree No. 26-97 dated 31 January 2026, establishing conditions and procedures for approval of electronic communications equipment.",
-      "ar": "أعلنت ARPCE نشر المرسوم التنفيذي رقم 26-97 المؤرخ في 31 يناير 2026، الذي يحدد شروط وكيفيات المصادقة على تجهيزات الاتصالات الإلكترونية.",
-      "zh": "ARPCE 宣布发布2026年1月31日第26-97号行政法令，规定电子通信设备认证的条件和程序。"
-    },
-    "body": {
-      "en": "<p>ARPCE states that Executive Decree No. 26-97 establishes the conditions and procedures for approval of electronic communications equipment.</p><p>The framework covers application conditions, processing deadlines, and the issue and validity of the certificate of conformity. ARPCE’s current FAQ states that the response time may not exceed two months from submission of a complete file.</p><p>The authority also identifies terminal equipment and radio installations intended for connection to a public electronic communications network among the equipment subject to approval.</p>",
-      "ar": "<p>توضح ARPCE أن المرسوم التنفيذي رقم 26-97 يحدد شروط وكيفيات المصادقة على تجهيزات الاتصالات الإلكترونية.</p><p>ويشمل الإطار شروط تقديم الطلبات وآجال المعالجة وإصدار شهادة المطابقة وصلاحيتها. وتوضح الأسئلة الشائعة الحالية للهيئة أن مدة الرد لا تتجاوز شهرين من تاريخ إيداع الملف الكامل.</p><p>كما تحدد الهيئة التجهيزات الطرفية والمنشآت اللاسلكية الكهربائية المخصصة للاتصال بشبكة اتصالات إلكترونية مفتوحة للجمهور ضمن التجهيزات الخاضعة للمصادقة.</p>",
-      "zh": "<p>ARPCE 表示，第26-97号行政法令规定了电子通信设备认证的条件和程序。</p><p>该框架涵盖申请条件、处理期限以及合格证书的签发和有效期。ARPCE 当前常见问题说明，完整资料提交后，回复期限不超过两个月。</p><p>监管机构还指出，拟连接到公共电子通信网络的终端设备和无线电设施属于认证范围。</p>"
-    },
-    "whatKnow": {
-      "en": "The 2026 decree should be treated as the current primary approval framework for applicable Algerian equipment.",
-      "ar": "يجب التعامل مع مرسوم 2026 باعتباره الإطار الأساسي الحالي للمصادقة على التجهيزات الجزائرية الخاضعة له.",
-      "zh": "对于适用的阿尔及利亚设备，应将2026年法令作为当前主要认证框架。"
-    },
-    "image": "/assets/news/algeria/regulatory-update.webp",
-    "sourceName": "ARPCE — Executive Decree No. 26-97 / Approval FAQ",
-    "sourceUrl": "https://www.arpce.dz/en/faq",
-    "sourceType": "Official Regulatory Authority",
-    "featured": true,
-    "status": "published",
-    "updatedAt": "2026-09-14T00:00:00Z"
-  },
-  {
     "id": "reg-uae-2026-v4",
     "slug": "uae-tdra-type-approval-policy-version-4-effective-2026",
     "status": "published",
@@ -214,5 +154,53 @@
     "sourceUrl": "https://www.trc.gov.jo/EN/List/Regulatory_Provisions_of_Type_Approval",
     "sourceType": "Official Regulatory Authority",
     "image": "/assets/news/jo/jordan-trc-etas-type-approval-updated-march-2026.jpg"
+  },
+  {
+    "id": "reg-algeria-2026-2697",
+    "slug": "algeria-arpce-executive-decree-26-97-approval",
+    "status": "published",
+    "country": "Algeria",
+    "countryCode": "DZ",
+    "countryKey": "DZ__algeria__16",
+    "countrySlug": "algeria",
+    "countryName": {
+      "en": "Algeria"
+    },
+    "authority": "ARPCE / ANF",
+    "category": "",
+    "date": "2026-02-23",
+    "publishedAt": "2026-09-14T15:45:40.136Z",
+    "updatedAt": "2026-09-14T15:45:40.136Z",
+    "author": "AFAQ JOOD Regulatory Intelligence Team",
+    "impact": "high",
+    "featured": true,
+    "products": [
+      "Telecom Equipment",
+      "Wi-Fi & Bluetooth",
+      "Cellular / 4G / 5G",
+      "IoT Devices"
+    ],
+    "tags": [
+      "Algeria",
+      "ARPCE",
+      "Decree 26-97",
+      "Homologation"
+    ],
+    "title": {
+      "en": "Algeria updates electronic communications equipment approval framework"
+    },
+    "summary": {
+      "en": "ARPCE announced publication of Executive Decree No. 26-97 dated 31 January 2026, establishing conditions and procedures for approval of electronic communications equipment."
+    },
+    "body": {
+      "en": "<p>ARPCE states that Executive Decree No. 26-97 establishes the conditions and procedures for approval of electronic communications equipment.</p><p>The framework covers application conditions, processing deadlines, and the issue and validity of the certificate of conformity. ARPCE’s current FAQ states that the response time may not exceed two months from submission of a complete file.</p><p>The authority also identifies terminal equipment and radio installations intended for connection to a public electronic communications network among the equipment subject to approval.</p>"
+    },
+    "whatKnow": {
+      "en": "<p>The 2026 decree should be treated as the current primary approval framework for applicable Algerian equipment.</p>"
+    },
+    "sourceName": "ARPCE — Executive Decree No. 26-97 / Approval FAQ",
+    "sourceUrl": "https://www.arpce.dz/en/faq",
+    "sourceType": "Official Regulatory Authority",
+    "image": "/assets/news/dz/algeria-arpce-executive-decree-26-97-approval.jpg"
   }
 ]
