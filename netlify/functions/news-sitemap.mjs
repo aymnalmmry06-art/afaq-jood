@@ -26,22 +26,10 @@ function sitemap(items) {
 }
 
 export default async () => {
-  const owner = process.env.GITHUB_OWNER;
-  const repo = process.env.GITHUB_REPO;
-  const branch = process.env.GITHUB_BRANCH || 'main';
-  const token = process.env.GITHUB_TOKEN;
-
-  if (!owner || !repo || !token) {
-    return new Response(sitemap([]), { status: 503, headers: { 'Content-Type': 'application/xml; charset=utf-8', 'Cache-Control': 'no-store' } });
-  }
-
   try {
-    const response = await fetch(`https://api.github.com/repos/${encodeURIComponent(owner)}/${encodeURIComponent(repo)}/contents/news.json?ref=${encodeURIComponent(branch)}`, {
-      headers: { Accept: 'application/vnd.github+json', Authorization: `Bearer ${token}`, 'X-GitHub-Api-Version': '2022-11-28' }
-    });
-    if (!response.ok) throw new Error(`GitHub request failed (${response.status})`);
-    const file = await response.json();
-    const items = JSON.parse(Buffer.from(String(file.content || '').replace(/\n/g, ''), 'base64').toString('utf8'));
+    const response = await fetch(`${siteUrl}/news.json`, { headers: { Accept: 'application/json' }, cache: 'no-store' });
+    if (!response.ok) throw new Error(`News source request failed (${response.status})`);
+    const items = await response.json();
     return new Response(sitemap(Array.isArray(items) ? items : []), {
       headers: { 'Content-Type': 'application/xml; charset=utf-8', 'Cache-Control': 'public, max-age=300' }
     });
