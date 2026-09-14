@@ -120,66 +120,6 @@
     "updatedAt": "2026-09-14T00:00:00Z"
   },
   {
-    "id": "reg-jordan-2026-etas",
-    "slug": "jordan-trc-etas-type-approval-updated-march-2026",
-    "countryCode": "JO",
-    "country": "Jordan",
-    "countrySlug": "jordan",
-    "countryName": {
-      "en": "Jordan",
-      "ar": "الأردن",
-      "zh": "约旦"
-    },
-    "authority": "TRC",
-    "category": {
-      "en": "Type Approval",
-      "ar": "موافقة نوعية",
-      "zh": "型式认证"
-    },
-    "date": "2026-03-03",
-    "author": "AFAQ JOOD Regulatory Intelligence Team",
-    "impact": "medium",
-    "products": [
-      "Telecom Equipment",
-      "Wi-Fi & Bluetooth",
-      "Cellular / 4G / 5G",
-      "IoT Devices"
-    ],
-    "tags": [
-      "Jordan",
-      "TRC",
-      "ETAS",
-      "Type Approval"
-    ],
-    "title": {
-      "en": "Jordan TRC updates its Type Approval reference and ETAS information",
-      "ar": "هيئة تنظيم الاتصالات الأردنية تحدّث مرجع الموافقات النوعية ونظام ETAS",
-      "zh": "约旦 TRC 更新型式认证参考和 ETAS 信息"
-    },
-    "summary": {
-      "en": "TRC’s current Type Approval page provides the regulatory instructions, technical rules, annexes and automated ETAS application route, with the page updated on 3 March 2026.",
-      "ar": "توفر صفحة الموافقات النوعية الحالية لدى TRC التعليمات والقواعد الفنية والملاحق ومسار التقديم عبر نظام ETAS، مع تحديث الصفحة في 3 مارس 2026.",
-      "zh": "TRC 当前型式认证页面提供监管指引、技术规则、附件和 ETAS 自动申请路径，页面最后更新于2026年3月3日。"
-    },
-    "body": {
-      "en": "<p>Jordan’s Telecommunications Regulatory Commission provides a dedicated Type Approval reference covering the instructions for telecommunications devices, technical rules and standards, annexes and the automated ETAS system.</p><p>The TRC service guide describes an online process: create an ETAS account, submit the application, upload the service requirements, complete the application process and receive the official approval letter when the requirements are complete.</p><p>Manufacturers should use the current TRC instructions and technical rules when preparing a Jordan submission.</p>",
-      "ar": "<p>توفر هيئة تنظيم قطاع الاتصالات الأردنية مرجعًا مخصصًا للموافقات النوعية يتضمن تعليمات أجهزة الاتصالات والقواعد الفنية والمواصفات والملاحق ونظام ETAS المؤتمت.</p><p>يوضح دليل الخدمة مسارًا إلكترونيًا يبدأ بإنشاء حساب على ETAS، ثم تقديم الطلب ورفع المتطلبات ودفع الأجور، وبعد استكمال المتطلبات تمنح الهيئة شهادة الموافقة النوعية بموجب كتاب رسمي.</p><p>ينبغي للمصنعين الاعتماد على التعليمات والقواعد الفنية الحالية لدى TRC عند تجهيز طلب الأردن.</p>",
-      "zh": "<p>约旦电信监管委员会为型式认证提供专门参考页面，包括通信设备指引、技术规则和标准、附件以及 ETAS 自动系统。</p><p>服务指南说明了在线流程：创建 ETAS 账户、提交申请、上传服务要求、完成申请要求，并在资料完整且符合要求后取得正式批准文件。</p><p>制造商准备约旦申请时，应使用 TRC 当前的监管指引和技术规则。</p>"
-    },
-    "whatKnow": {
-      "en": "Jordan applications are coordinated through the ETAS route, so the technical file should be prepared for online submission and the current TRC requirements.",
-      "ar": "يتم تنسيق طلبات الأردن عبر ETAS، لذلك يجب تجهيز الملف الفني بما يتوافق مع التقديم الإلكتروني ومتطلبات TRC الحالية.",
-      "zh": "约旦申请通过 ETAS 路径协调，因此技术资料应按在线提交方式和 TRC 当前要求准备。"
-    },
-    "image": "/assets/news/jordan/regulatory-update.webp",
-    "sourceName": "Jordan TRC — Type Approvals for Telecom Equipment",
-    "sourceUrl": "https://www.trc.gov.jo/EN/List/Regulatory_Provisions_of_Type_Approval",
-    "sourceType": "Official Regulatory Authority",
-    "featured": false,
-    "status": "published",
-    "updatedAt": "2026-09-14T00:00:00Z"
-  },
-  {
     "id": "reg-uae-2026-v4",
     "slug": "uae-tdra-type-approval-policy-version-4-effective-2026",
     "status": "published",
@@ -226,5 +166,53 @@
     "sourceUrl": "https://tdra.gov.ae/en/FAQs",
     "sourceType": "Official Regulatory Authority",
     "image": "/assets/news/ae/uae-tdra-type-approval-policy-version-4-effective-2026.jpg"
+  },
+  {
+    "id": "reg-jordan-2026-etas",
+    "slug": "jordan-trc-etas-type-approval-updated-march-2026",
+    "status": "published",
+    "country": "Jordan",
+    "countryCode": "JO",
+    "countryKey": "JO__jordan__6",
+    "countrySlug": "jordan",
+    "countryName": {
+      "en": "Jordan"
+    },
+    "authority": "TRC",
+    "category": "",
+    "date": "2026-03-03",
+    "publishedAt": "2026-09-14T15:36:59.765Z",
+    "updatedAt": "2026-09-14T15:36:59.765Z",
+    "author": "AFAQ JOOD Regulatory Intelligence Team",
+    "impact": "medium",
+    "featured": false,
+    "products": [
+      "Telecom Equipment",
+      "Wi-Fi & Bluetooth",
+      "Cellular / 4G / 5G",
+      "IoT Devices"
+    ],
+    "tags": [
+      "Jordan",
+      "TRC",
+      "ETAS",
+      "Type Approval"
+    ],
+    "title": {
+      "en": "Jordan TRC updates its Type Approval reference and ETAS information"
+    },
+    "summary": {
+      "en": "TRC’s current Type Approval page provides the regulatory instructions, technical rules, annexes and automated ETAS application route, with the page updated on 3 March 2026."
+    },
+    "body": {
+      "en": "<p>Jordan’s Telecommunications Regulatory Commission provides a dedicated Type Approval reference covering the instructions for telecommunications devices, technical rules and standards, annexes and the automated ETAS system.</p><p>The TRC service guide describes an online process: create an ETAS account, submit the application, upload the service requirements, complete the application process and receive the official approval letter when the requirements are complete.</p><p>Manufacturers should use the current TRC instructions and technical rules when preparing a Jordan submission.</p>"
+    },
+    "whatKnow": {
+      "en": "<p>Jordan applications are coordinated through the ETAS route, so the technical file should be prepared for online submission and the current TRC requirements.</p>"
+    },
+    "sourceName": "Jordan TRC — Type Approvals for Telecom Equipment",
+    "sourceUrl": "https://www.trc.gov.jo/EN/List/Regulatory_Provisions_of_Type_Approval",
+    "sourceType": "Official Regulatory Authority",
+    "image": "/assets/news/jo/jordan-trc-etas-type-approval-updated-march-2026.jpg"
   }
 ]
