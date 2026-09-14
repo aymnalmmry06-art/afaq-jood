@@ -1,0 +1,2 @@
+/news/* /news-article.html?slug=:splat 200
+/api/news-admin /.netlify/functions/news-admin 200

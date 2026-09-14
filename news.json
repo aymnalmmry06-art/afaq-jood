@@ -1,0 +1,242 @@
+[
+  {
+    "id": "reg-uae-2026-v4",
+    "slug": "uae-tdra-type-approval-policy-version-4-effective-2026",
+    "countryCode": "AE",
+    "country": "United Arab Emirates",
+    "countrySlug": "united-arab-emirates",
+    "countryName": {
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة",
+      "zh": "阿联酋"
+    },
+    "authority": "TDRA",
+    "category": {
+      "en": "Type Approval",
+      "ar": "موافقة نوعية",
+      "zh": "型式认证"
+    },
+    "date": "2026-05-01",
+    "author": "AFAQ JOOD Regulatory Intelligence Team",
+    "impact": "high",
+    "products": [
+      "Telecommunications Equipment",
+      "Wi-Fi & Bluetooth",
+      "Cellular / 4G / 5G",
+      "IoT Devices"
+    ],
+    "tags": [
+      "UAE",
+      "TDRA",
+      "Type Approval",
+      "Version 4"
+    ],
+    "title": {
+      "en": "UAE Type Approval Policy Version 4 is now effective",
+      "ar": "بدء تطبيق سياسة اعتماد النوعية في الإمارات – النسخة 4",
+      "zh": "阿联酋型式认证政策第4版正式生效"
+    },
+    "summary": {
+      "en": "TDRA’s unified Type Approval Policy Version 4 became effective on 1 May 2026 and consolidates the main policy, requirements, procedures, testing, customs, market surveillance framework.",
+      "ar": "دخلت سياسة اعتماد النوعية الموحدة – النسخة 4 الصادرة عن TDRA حيز التطبيق في 1 مايو 2026، وتجمع السياسة والمتطلبات والإجراءات والفحوصات والتخليص الجمركي والرقابة السوقية في مرجعية واحدة.",
+      "zh": "TDRA 统一型式认证政策第4版于2026年5月1日生效，将政策、要求、程序、测试、海关、市场监管和服务要求整合为统一监管参考。"
+    },
+    "body": {
+      "en": "<p>TDRA states that Version 4 is the updated unified regulatory reference for telecommunications equipment and technologies in the UAE.</p><p>The policy consolidates previous Type Approval instruments and applies to relevant activities including registration, approval, import, distribution, display, sale and commercial use. The official policy was issued on 21 January 2026 and became effective on 1 May 2026.</p><p>For a specific product, the applicable route, technical evidence, service treatment should be checked against the current TDRA system and policy before filing.</p>",
+      "ar": "<p>توضح TDRA أن النسخة 4 هي المرجعية التنظيمية الموحدة والمحدثة لأجهزة وتقنيات الاتصالات في دولة الإمارات.</p><p>تجمع السياسة أدوات اعتماد النوعية السابقة وتشمل الأنشطة ذات الصلة بالتسجيل والاعتماد والاستيراد والتوزيع والعرض والبيع والاستخدام التجاري. صدرت السياسة في 21 يناير 2026 وبدأ تطبيقها في 1 مايو 2026.</p><p>بالنسبة لأي منتج محدد، يجب التحقق من المسار والأدلة الفنية وإجراءات الخدمة وفق نظام TDRA والسياسة الحالية قبل التقديم.</p>",
+      "zh": "<p>TDRA 表示，第4版是阿联酋电信设备和技术的最新统一监管参考。</p><p>该政策整合此前的型式认证监管文件，涵盖注册、认证、进口、分销、展示、销售和商业使用等相关活动。政策于2026年1月21日发布，并于2026年5月1日生效。</p><p>对于具体产品，应在提交申请前依据当前 TDRA 系统和政策确认适用路径、技术资料、服务要求。</p>"
+    },
+    "whatKnow": {
+      "en": "Use Version 4 as the primary TDRA reference rather than relying on older Version 3 documents.",
+      "ar": "استخدم النسخة 4 كمرجع TDRA الأساسي، ولا تعتمد على وثائق النسخة 3 القديمة باعتبارها الإطار الحالي.",
+      "zh": "应以第4版作为主要 TDRA 参考，不应将旧版第3版文件作为当前主要监管框架。"
+    },
+    "image": "/assets/news/uae/regulatory-update.webp",
+    "sourceName": "TDRA — Type Approval Policy Version 4 / Official FAQ",
+    "sourceUrl": "https://tdra.gov.ae/en/FAQs",
+    "sourceType": "Official Regulatory Authority",
+    "featured": true,
+    "status": "published",
+    "updatedAt": "2026-09-14T00:00:00Z"
+  },
+  {
+    "id": "reg-egypt-2026-schemes",
+    "slug": "egypt-ntra-type-approval-schemes-2026",
+    "countryCode": "EG",
+    "country": "Egypt",
+    "countrySlug": "egypt",
+    "countryName": {
+      "en": "Egypt",
+      "ar": "مصر",
+      "zh": "埃及"
+    },
+    "authority": "NTRA",
+    "category": {
+      "en": "Type Approval",
+      "ar": "موافقة نوعية",
+      "zh": "型式认证"
+    },
+    "date": "2026-01-01",
+    "author": "AFAQ JOOD Regulatory Intelligence Team",
+    "impact": "high",
+    "products": [
+      "Telecom Equipment",
+      "Wi-Fi & Bluetooth",
+      "Cellular / 4G / 5G",
+      "IoT Devices"
+    ],
+    "tags": [
+      "Egypt",
+      "NTRA",
+      "Type Approval",
+      "2026"
+    ],
+    "title": {
+      "en": "Egypt NTRA publishes updated 2026 Type Approval schemes",
+      "ar": "NTRA مصر تحدّث إجراءات اعتماد النوعية لعام 2026",
+      "zh": "埃及 NTRA 发布2026年更新版型式认证程序"
+    },
+    "summary": {
+      "en": "NTRA currently applies Light, Intermediate and Tight Type Approval schemes and provides 2026 procedure documents and a scheme-determination process.",
+      "ar": "تطبق NTRA حاليًا ثلاثة مسارات لاعتماد النوعية: المبسط والمتوسط والمحكم، مع وثائق إجراءات محدثة لعام 2026 وآلية لتحديد المسار المناسب للمنتج.",
+      "zh": "NTRA 当前采用简化、中等和严格三类型式认证程序，并提供2026年程序文件及产品路径判定机制。"
+    },
+    "body": {
+      "en": "<p>NTRA’s current Type Approval procedure page identifies three schemes: Light, Intermediate and Tight.</p><p>The authority provides 2026 procedure documents and a scheme determination chart/interactive questions to identify the route applicable to a product. The procedure also includes the associated forms.</p><p>Manufacturers should determine the applicable scheme before preparing the final evidence package, because testing and documentation can differ by route.</p>",
+      "ar": "<p>توضح صفحة إجراءات اعتماد النوع الحالية لدى NTRA وجود ثلاثة مسارات: الإجراءات المبسطة والمتوسطة والمحكمة.</p><p>تنشر الهيئة وثائق الإجراءات لعام 2026، إضافة إلى رسم وأسئلة تفاعلية لتحديد المسار المناسب للمنتج، مع النماذج المرتبطة بالإجراء.</p><p>ينبغي تحديد المسار المناسب قبل إعداد حزمة الأدلة النهائية لأن الاختبارات والوثائق قد تختلف حسب المسار.</p>",
+      "zh": "<p>NTRA 当前的型式认证程序页面列出了三种路径：简化、中等和严格程序。</p><p>监管机构提供2026年程序文件，并通过路径判定图和交互式问题确定产品适用的程序，同时提供相关表格和服务信息。</p><p>制造商应在准备最终资料包前确定适用路径，因为不同路径的测试和文件要求可能不同。</p>"
+    },
+    "whatKnow": {
+      "en": "Do not assume one approval route applies to every product. The NTRA scheme must be determined from the product characteristics and applicable country category.",
+      "ar": "لا تفترض أن مسارًا واحدًا ينطبق على جميع المنتجات. يجب تحديد مسار NTRA وفق خصائص المنتج وفئة الدولة المطبقة.",
+      "zh": "不要假设所有产品都适用同一路径。应根据产品特性和适用国家类别确定 NTRA 程序。"
+    },
+    "image": "/assets/news/egypt/regulatory-update.webp",
+    "sourceName": "NTRA — Type Approval Procedure",
+    "sourceUrl": "https://www.tra.gov.eg/en/regulations/type-approval/type-approval-procedure/",
+    "sourceType": "Official Regulatory Authority",
+    "featured": true,
+    "status": "published",
+    "updatedAt": "2026-09-14T00:00:00Z"
+  },
+  {
+    "id": "reg-algeria-2026-2697",
+    "slug": "algeria-arpce-executive-decree-26-97-approval",
+    "countryCode": "DZ",
+    "country": "Algeria",
+    "countrySlug": "algeria",
+    "countryName": {
+      "en": "Algeria",
+      "ar": "الجزائر",
+      "zh": "阿尔及利亚"
+    },
+    "authority": "ARPCE",
+    "category": {
+      "en": "Regulatory Update",
+      "ar": "تحديث تنظيمي",
+      "zh": "法规更新"
+    },
+    "date": "2026-02-23",
+    "author": "AFAQ JOOD Regulatory Intelligence Team",
+    "impact": "high",
+    "products": [
+      "Telecom Equipment",
+      "Wi-Fi & Bluetooth",
+      "Cellular / 4G / 5G",
+      "IoT Devices"
+    ],
+    "tags": [
+      "Algeria",
+      "ARPCE",
+      "Decree 26-97",
+      "Homologation"
+    ],
+    "title": {
+      "en": "Algeria updates electronic communications equipment approval framework",
+      "ar": "الجزائر تحدّث إطار المصادقة على تجهيزات الاتصالات الإلكترونية",
+      "zh": "阿尔及利亚更新电子通信设备认证框架"
+    },
+    "summary": {
+      "en": "ARPCE announced publication of Executive Decree No. 26-97 dated 31 January 2026, establishing conditions and procedures for approval of electronic communications equipment.",
+      "ar": "أعلنت ARPCE نشر المرسوم التنفيذي رقم 26-97 المؤرخ في 31 يناير 2026، الذي يحدد شروط وكيفيات المصادقة على تجهيزات الاتصالات الإلكترونية.",
+      "zh": "ARPCE 宣布发布2026年1月31日第26-97号行政法令，规定电子通信设备认证的条件和程序。"
+    },
+    "body": {
+      "en": "<p>ARPCE states that Executive Decree No. 26-97 establishes the conditions and procedures for approval of electronic communications equipment.</p><p>The framework covers application conditions, processing deadlines, and the issue and validity of the certificate of conformity. ARPCE’s current FAQ states that the response time may not exceed two months from submission of a complete file.</p><p>The authority also identifies terminal equipment and radio installations intended for connection to a public electronic communications network among the equipment subject to approval.</p>",
+      "ar": "<p>توضح ARPCE أن المرسوم التنفيذي رقم 26-97 يحدد شروط وكيفيات المصادقة على تجهيزات الاتصالات الإلكترونية.</p><p>ويشمل الإطار شروط تقديم الطلبات وآجال المعالجة وإصدار شهادة المطابقة وصلاحيتها. وتوضح الأسئلة الشائعة الحالية للهيئة أن مدة الرد لا تتجاوز شهرين من تاريخ إيداع الملف الكامل.</p><p>كما تحدد الهيئة التجهيزات الطرفية والمنشآت اللاسلكية الكهربائية المخصصة للاتصال بشبكة اتصالات إلكترونية مفتوحة للجمهور ضمن التجهيزات الخاضعة للمصادقة.</p>",
+      "zh": "<p>ARPCE 表示，第26-97号行政法令规定了电子通信设备认证的条件和程序。</p><p>该框架涵盖申请条件、处理期限以及合格证书的签发和有效期。ARPCE 当前常见问题说明，完整资料提交后，回复期限不超过两个月。</p><p>监管机构还指出，拟连接到公共电子通信网络的终端设备和无线电设施属于认证范围。</p>"
+    },
+    "whatKnow": {
+      "en": "The 2026 decree should be treated as the current primary approval framework for applicable Algerian equipment.",
+      "ar": "يجب التعامل مع مرسوم 2026 باعتباره الإطار الأساسي الحالي للمصادقة على التجهيزات الجزائرية الخاضعة له.",
+      "zh": "对于适用的阿尔及利亚设备，应将2026年法令作为当前主要认证框架。"
+    },
+    "image": "/assets/news/algeria/regulatory-update.webp",
+    "sourceName": "ARPCE — Executive Decree No. 26-97 / Approval FAQ",
+    "sourceUrl": "https://www.arpce.dz/en/faq",
+    "sourceType": "Official Regulatory Authority",
+    "featured": true,
+    "status": "published",
+    "updatedAt": "2026-09-14T00:00:00Z"
+  },
+  {
+    "id": "reg-jordan-2026-etas",
+    "slug": "jordan-trc-etas-type-approval-updated-march-2026",
+    "countryCode": "JO",
+    "country": "Jordan",
+    "countrySlug": "jordan",
+    "countryName": {
+      "en": "Jordan",
+      "ar": "الأردن",
+      "zh": "约旦"
+    },
+    "authority": "TRC",
+    "category": {
+      "en": "Type Approval",
+      "ar": "موافقة نوعية",
+      "zh": "型式认证"
+    },
+    "date": "2026-03-03",
+    "author": "AFAQ JOOD Regulatory Intelligence Team",
+    "impact": "medium",
+    "products": [
+      "Telecom Equipment",
+      "Wi-Fi & Bluetooth",
+      "Cellular / 4G / 5G",
+      "IoT Devices"
+    ],
+    "tags": [
+      "Jordan",
+      "TRC",
+      "ETAS",
+      "Type Approval"
+    ],
+    "title": {
+      "en": "Jordan TRC updates its Type Approval reference and ETAS information",
+      "ar": "هيئة تنظيم الاتصالات الأردنية تحدّث مرجع الموافقات النوعية ونظام ETAS",
+      "zh": "约旦 TRC 更新型式认证参考和 ETAS 信息"
+    },
+    "summary": {
+      "en": "TRC’s current Type Approval page provides the regulatory instructions, technical rules, annexes and automated ETAS application route, with the page updated on 3 March 2026.",
+      "ar": "توفر صفحة الموافقات النوعية الحالية لدى TRC التعليمات والقواعد الفنية والملاحق ومسار التقديم عبر نظام ETAS، مع تحديث الصفحة في 3 مارس 2026.",
+      "zh": "TRC 当前型式认证页面提供监管指引、技术规则、附件和 ETAS 自动申请路径，页面最后更新于2026年3月3日。"
+    },
+    "body": {
+      "en": "<p>Jordan’s Telecommunications Regulatory Commission provides a dedicated Type Approval reference covering the instructions for telecommunications devices, technical rules and standards, annexes and the automated ETAS system.</p><p>The TRC service guide describes an online process: create an ETAS account, submit the application, upload the service requirements, complete the application process and receive the official approval letter when the requirements are complete.</p><p>Manufacturers should use the current TRC instructions and technical rules when preparing a Jordan submission.</p>",
+      "ar": "<p>توفر هيئة تنظيم قطاع الاتصالات الأردنية مرجعًا مخصصًا للموافقات النوعية يتضمن تعليمات أجهزة الاتصالات والقواعد الفنية والمواصفات والملاحق ونظام ETAS المؤتمت.</p><p>يوضح دليل الخدمة مسارًا إلكترونيًا يبدأ بإنشاء حساب على ETAS، ثم تقديم الطلب ورفع المتطلبات ودفع الأجور، وبعد استكمال المتطلبات تمنح الهيئة شهادة الموافقة النوعية بموجب كتاب رسمي.</p><p>ينبغي للمصنعين الاعتماد على التعليمات والقواعد الفنية الحالية لدى TRC عند تجهيز طلب الأردن.</p>",
+      "zh": "<p>约旦电信监管委员会为型式认证提供专门参考页面，包括通信设备指引、技术规则和标准、附件以及 ETAS 自动系统。</p><p>服务指南说明了在线流程：创建 ETAS 账户、提交申请、上传服务要求、完成申请要求，并在资料完整且符合要求后取得正式批准文件。</p><p>制造商准备约旦申请时，应使用 TRC 当前的监管指引和技术规则。</p>"
+    },
+    "whatKnow": {
+      "en": "Jordan applications are coordinated through the ETAS route, so the technical file should be prepared for online submission and the current TRC requirements.",
+      "ar": "يتم تنسيق طلبات الأردن عبر ETAS، لذلك يجب تجهيز الملف الفني بما يتوافق مع التقديم الإلكتروني ومتطلبات TRC الحالية.",
+      "zh": "约旦申请通过 ETAS 路径协调，因此技术资料应按在线提交方式和 TRC 当前要求准备。"
+    },
+    "image": "/assets/news/jordan/regulatory-update.webp",
+    "sourceName": "Jordan TRC — Type Approvals for Telecom Equipment",
+    "sourceUrl": "https://www.trc.gov.jo/EN/List/Regulatory_Provisions_of_Type_Approval",
+    "sourceType": "Official Regulatory Authority",
+    "featured": false,
+    "status": "published",
+    "updatedAt": "2026-09-14T00:00:00Z"
+  }
+]

@@ -1,0 +1,306 @@
+[
+  {
+    "country": "United Arab Emirates",
+    "code": "AE",
+    "authority": "TDRA",
+    "official_source": "https://tdra.gov.ae",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against TDRA public regulatory material, including Type Approval Policy Version 4 effective 1 May 2026. A commercial reference indicates a 3–5 working-day planning range; this is not a government service-level promise."
+  },
+  {
+    "country": "Saudi Arabia",
+    "code": "SA",
+    "authority": "CST",
+    "official_source": "https://cst.gov.sa",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against current CST regulations for communications and IT devices."
+  },
+  {
+    "country": "Qatar",
+    "code": "QA",
+    "authority": "CRA",
+    "official_source": "https://cra.gov.qa",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 using the CRA regulatory framework and the supplied GCC business proposal. The proposal lists a 7–10 working-day estimate for its service route and a lifetime validity statement; these are commercial reference data, not an authority guarantee."
+  },
+  {
+    "country": "Kuwait",
+    "code": "KW",
+    "authority": "CITRA",
+    "official_source": "https://citra.gov.kw",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against the official CITRA Type Approval service page."
+  },
+  {
+    "country": "Oman",
+    "code": "OM",
+    "authority": "TRA",
+    "official_source": "https://tra.gov.om",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against official TRA Oman Type Approval regulations and service description. The official service requires the applicable technical and conformity evidence; processing follows the current TRA route."
+  },
+  {
+    "country": "Bahrain",
+    "code": "BH",
+    "authority": "TRA",
+    "official_source": "https://tra.org.bh",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against Bahrain TRA/eTRA services and the supplied GCC proposal. The proposal lists 7–10 working days and 3 years for its route; official service classification should prevail."
+  },
+  {
+    "country": "Jordan",
+    "code": "JO",
+    "authority": "TRC",
+    "official_source": "https://trc.gov.jo",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against the Jordan TRC Type Approval regulatory page, including the current instructions, technical rules, annexes and ETAS references. A supplied commercial list gives 2–3 weeks as a planning reference."
+  },
+  {
+    "country": "Iraq",
+    "code": "IQ",
+    "authority": "CMC",
+    "official_source": "https://cmc.iq",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against the official CMC telecommunications regulatory portal, which publishes procedures and regulations for type approval certificates."
+  },
+  {
+    "country": "Lebanon",
+    "code": "LB",
+    "authority": "TRA",
+    "official_source": "https://tra.gov.lb",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against the official Lebanon TRA Type Approval page and application-form page. The authority states that Type Approval and importation/manufacture approvals are required for applicable equipment entering Lebanon."
+  },
+  {
+    "country": "Palestine – West Bank",
+    "code": "PS",
+    "authority": "MTDE",
+    "official_source": "https://mtde.gov.ps",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against the available Palestinian telecommunications regulatory references and supplied commercial country references. Final route depends on the competent authority and territory."
+  },
+  {
+    "country": "Palestine – Gaza",
+    "code": "PS",
+    "authority": "MTDE",
+    "official_source": "https://mtde.gov.ps",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against the available Palestinian telecommunications regulatory references and supplied commercial country references. Final route depends on the competent authority and territory."
+  },
+  {
+    "country": "Syria",
+    "code": "SY",
+    "authority": "SYTRA",
+    "official_source": "https://sytra.gov.sy",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against the available Syrian telecommunications regulatory framework references; final requirements depend on the equipment category and current authority route."
+  },
+  {
+    "country": "Yemen – Aden",
+    "code": "YE",
+    "authority": "MTIT",
+    "official_source": "https://mtit.gov.ye",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against Yemen Ministry service information and the supplied commercial country references. This entry is presented for the Aden-side regulatory pathway; confirm the filing office and current route before submission."
+  },
+  {
+    "country": "Yemen – Sana'a",
+    "code": "YE",
+    "authority": "MTIT",
+    "official_source": "https://mtit.gov.ye",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against Yemen Ministry service information and the supplied commercial country references. This entry is presented for the Sana’a-side regulatory pathway; confirm the filing office and current route before submission."
+  },
+  {
+    "country": "Iran",
+    "code": "IR",
+    "authority": "ATRA / CRA",
+    "official_source": "https://cra.ir",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against the available Iranian communications regulatory framework references; route and product classification determine the applicable approval path."
+  },
+  {
+    "country": "Turkey",
+    "code": "TR",
+    "authority": "BTK",
+    "official_source": "https://btk.gov.tr",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against the Turkish BTK equipment-conformity framework. The applicable route depends on equipment type and conformity assessment."
+  },
+  {
+    "country": "Algeria",
+    "code": "DZ",
+    "authority": "ARPCE / ANF",
+    "official_source": "https://arpce.dz",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against ARPCE FAQ and the 26-97 framework. ARPCE states that covered terminal and radio equipment is subject to approval and that the response period for a complete file does not exceed two months."
+  },
+  {
+    "country": "Egypt",
+    "code": "EG",
+    "authority": "NTRA",
+    "official_source": "https://tra.gov.eg",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against the NTRA Type Approval Procedure, including the 2026 Light, Intermediate and Tight schemes. The supplied country list gives 4–5 weeks as a commercial planning reference."
+  },
+  {
+    "country": "Libya",
+    "code": "LY",
+    "authority": "CIM",
+    "official_source": "https://cim.gov.ly",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against the available Libyan telecommunications regulatory references; the applicable procedure depends on equipment category and current authority route."
+  },
+  {
+    "country": "Morocco",
+    "code": "MA",
+    "authority": "ANRT",
+    "official_source": "https://anrt.ma",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against ANRT homologation framework references."
+  },
+  {
+    "country": "Sudan",
+    "code": "SD",
+    "authority": "NTC",
+    "official_source": "https://ntc.gov.sd",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against the available NTC equipment approval framework and supplied African commercial references."
+  },
+  {
+    "country": "Tunisia",
+    "code": "TN",
+    "authority": "INTT",
+    "official_source": "https://mtc.gov.tn",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against the available Tunisian telecommunications conformity framework and supplied African commercial reference."
+  },
+  {
+    "country": "Mauritania",
+    "code": "MR",
+    "authority": "ARE",
+    "official_source": "https://are.mr",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against available ARE regulatory references and the supplied African commercial reference."
+  },
+  {
+    "country": "Angola",
+    "code": "AO",
+    "authority": "INACOM",
+    "official_source": "https://inacom.gov.ao",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 using the supplied GTB commercial reference and current INACOM regulatory framework. Commercial lead time/validity are planning references, not government guarantees."
+  },
+  {
+    "country": "Botswana",
+    "code": "BW",
+    "authority": "BOCRA / RNW",
+    "official_source": "https://bocra.org.bw",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against BOCRA official Type Approval information and the supplied GTB reference. BOCRA states that type approval applies to telecommunications/radio equipment and may recognize certificates and test reports from other authorities/laboratories."
+  },
+  {
+    "country": "Djibouti",
+    "code": "DJ",
+    "authority": "MCPT",
+    "official_source": "https://mcpt.dj",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 using the supplied African commercial references and available MCPT regulatory information. Commercial data are planning references, not authority SLAs."
+  },
+  {
+    "country": "Kenya",
+    "code": "KE",
+    "authority": "Communications Authority of Kenya",
+    "official_source": "https://ca.go.ke",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against the Communications Authority of Kenya Type Approval information. CA states that it type-approves communications and radio equipment and that approval is performed once for each model. The supplied country list gives 3–4 weeks."
+  },
+  {
+    "country": "Malawi",
+    "code": "MW",
+    "authority": "MACRA",
+    "official_source": "https://macra.org.mw",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 using the supplied Malaika and GTB commercial references and available MACRA framework information. Commercial lead times/validity are planning references."
+  },
+  {
+    "country": "Mauritius",
+    "code": "MU",
+    "authority": "ICTA",
+    "official_source": "https://icta.mu",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against the official ICTA Type Approval page. Since October 2019, applications for importation of ICT equipment are submitted through the online portal before customs clearance."
+  },
+  {
+    "country": "Namibia",
+    "code": "NA",
+    "authority": "CRAN",
+    "official_source": "https://cran.na",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against CRAN equipment type approval information and the supplied African commercial reference."
+  },
+  {
+    "country": "Nigeria",
+    "code": "NG",
+    "authority": "NCC",
+    "official_source": "https://ncc.gov.ng",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against NCC type approval framework references and supplied commercial data. The supplied country list gives a 5-week commercial planning reference."
+  },
+  {
+    "country": "South Africa",
+    "code": "ZA",
+    "authority": "ICASA",
+    "official_source": "https://icasa.org.za",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against ICASA Type Approval requirements. ICASA states that applications require recognized conformance reports and that the Authority may request a representative sample. The supplied commercial references give 4–6 weeks as a planning range."
+  },
+  {
+    "country": "Tanzania",
+    "code": "TZ",
+    "authority": "TCRA",
+    "official_source": "https://tcra.go.tz",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against TCRA type approval/OTAS information and the supplied GTB commercial reference, which gives 3–4 weeks as a planning estimate."
+  },
+  {
+    "country": "Uganda",
+    "code": "UG",
+    "authority": "UCC",
+    "official_source": "https://ucc.co.ug",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against UCC Type Approval application guidance. Applications are made through the online portal with associated documents uploaded. The supplied GTB reference gives 4–5 weeks."
+  },
+  {
+    "country": "Ethiopia",
+    "code": "ET",
+    "authority": "ECA",
+    "official_source": "https://eca.et",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against available ECA regulatory references and the supplied GTB commercial reference."
+  },
+  {
+    "country": "Ghana",
+    "code": "GH",
+    "authority": "NCA",
+    "official_source": "https://nca.org.gh",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against NCA official Type Approval information. NCA states that Type Approval is required before applicable ICT products are allowed onto the Ghanaian market. The supplied GTB reference gives 3–4 weeks."
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "code": "CI",
+    "authority": "ARTCI",
+    "official_source": "https://artci.ci",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against available ARTCI homologation framework and the supplied GTB commercial reference."
+  },
+  {
+    "country": "Senegal",
+    "code": "SN",
+    "authority": "ARTP",
+    "official_source": "https://artp.sn",
+    "last_verified": "2026-09-14",
+    "note": "Verified 14 September 2026 against available ARTP homologation information and supplied African commercial references."
+  }
+]

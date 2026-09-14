@@ -1,0 +1,13 @@
+[build]
+  publish = "."
+  functions = "netlify/functions"
+
+[[redirects]]
+  from = "/news/*"
+  to = "/news-article.html?slug=:splat"
+  status = 200
+
+[[redirects]]
+  from = "/api/news-admin"
+  to = "/.netlify/functions/news-admin"
+  status = 200

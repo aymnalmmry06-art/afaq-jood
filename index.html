@@ -1,295 +1,123 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Afaq Jood | Coming Soon</title>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="AFAQ JOOD — Type Approval coordination for telecom, RF and connected products across selected Middle East and African markets." data-meta-i18n="metaDescription">
+<title>AFAQ JOOD — Type Approval & Regulatory Compliance</title>
+<link rel="icon" href="assets/afaq-jood-logo.png"><link rel="canonical" href="https://afaqjood.com/"><meta property="og:title" content="AFAQ JOOD — Type Approval & Regulatory Compliance"><meta property="og:description" content="AFAQ JOOD — Type Approval coordination for telecom, RF and connected products across selected Middle East and African markets."><meta property="og:url" content="https://afaqjood.com/"><meta property="og:type" content="website">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+<link rel="stylesheet" href="style.css"><link rel="stylesheet" href="news.css">
+</head>
+<body>
+<nav class="siteNav" id="siteNav">
+  <div class="navShell">
+    <a class="brandMark" href="#home" aria-label="AFAQ JOOD home">
+      <img class="brandFullLogo logoLight" src="assets/afaq-jood-full-light.png" alt="AFAQ JOOD">
+      <img class="brandFullLogo logoDark" src="assets/afaq-jood-full-dark.png" alt="AFAQ JOOD">
+    </a>
+    <div class="desktopNav">
+      <a href="#home" data-i18n="home">Home</a>
+      <a href="#about" data-i18n="about">About</a>
+      <a href="#services" data-i18n="services">Type Approval</a>
+      <a href="#products" data-i18n="productsNav">Products</a>
+      <a href="#markets" data-i18n="countries">Markets</a>
+      <a href="#process" data-i18n="process">Process</a>
+      <a href="#resources" data-i18n="resources">Resources</a><a href="news.html" data-news-nav>News</a>
+      <a href="#contact" data-i18n="contact">Contact</a>
+    </div>
+    <div class="navTools">
+      <button class="navIconBtn" id="navSearchBtn" aria-label="Search markets"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"></circle><path d="m16 16 5 5"></path></svg></button>
+      <div class="languageSwitcher"><button class="langBtn active" data-lang="en">EN</button><button class="langBtn" data-lang="ar">العربية</button><button class="langBtn" data-lang="zh">中文</button></div>
+      <button class="modeBtn" id="navModeBtn" aria-label="Toggle dark mode"><svg viewBox="0 0 24 24"><path d="M20 15.2A8.5 8.5 0 0 1 8.8 4a8.5 8.5 0 1 0 11.2 11.2Z"></path></svg></button>
+      <a class="navQuote" href="#contact" data-i18n="quote">Request an Assessment <span>↗</span></a>
+      <button class="mobileNavBtn" id="menuBtn" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+  <div class="mobileNav" id="mobileMenu">
+    <a href="#home" data-i18n="home">Home</a><a href="#about" data-i18n="about">About</a><a href="#services" data-i18n="services">Type Approval</a><a href="#markets" data-i18n="countries">Markets</a><a href="#process" data-i18n="process">Process</a><a href="#resources" data-i18n="resources">Resources</a><a href="news.html" data-news-nav>News</a><a href="#contact" data-i18n="contact">Contact</a>
+    <div class="mobileActions"><button class="langBtn active" data-lang="en">EN</button><button class="langBtn" data-lang="ar">العربية</button><button class="langBtn" data-lang="zh">中文</button><button class="modeBtn" id="mobileModeBtn"><svg viewBox="0 0 24 24"><path d="M20 15.2A8.5 8.5 0 0 1 8.8 4a8.5 8.5 0 1 0 11.2 11.2Z"></path></svg></button><a class="navQuote" href="#contact" data-i18n="quote">Request an Assessment <span>↗</span></a></div>
+  </div>
+</nav>
 
-    <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&family=Tajawal:wght@400;500;700;800&display=swap"
-      rel="stylesheet"
-    />
-
-    <style>
-      :root {
-        --primary: #0a3d62;
-        --accent: #1e90ff;
-        --light: #f4f8ff;
-        --white: #ffffff;
-        --text: #1f2937;
-        --muted: #6b7280;
-      }
-
-      * {
-        box-sizing: border-box;
-        margin: 0;
-        padding: 0;
-      }
-
-      body {
-        min-height: 100vh;
-        font-family: "Inter", "Tajawal", sans-serif;
-        background: linear-gradient(
-          135deg,
-          #eef6ff 0%,
-          #ffffff 45%,
-          #dff0ff 100%
-        );
-        color: var(--text);
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        padding: 24px;
-        overflow-x: hidden;
-      }
-
-      .bg-circle {
-        position: fixed;
-        border-radius: 50%;
-        filter: blur(4px);
-        opacity: 0.18;
-        z-index: 0;
-      }
-
-      .circle-1 {
-        width: 280px;
-        height: 280px;
-        background: var(--accent);
-        top: -80px;
-        left: -80px;
-      }
-
-      .circle-2 {
-        width: 340px;
-        height: 340px;
-        background: var(--primary);
-        bottom: -120px;
-        right: -120px;
-      }
-
-      .card {
-        position: relative;
-        z-index: 1;
-        width: 100%;
-        max-width: 920px;
-        background: rgba(255, 255, 255, 0.88);
-        backdrop-filter: blur(18px);
-        border: 1px solid rgba(255, 255, 255, 0.7);
-        border-radius: 28px;
-        box-shadow: 0 24px 70px rgba(10, 61, 98, 0.18);
-        padding: 44px;
-        text-align: center;
-      }
-
-      .logo-box {
-        display: inline-flex;
-        align-items: center;
-        justify-content: center;
-        width: 92px;
-        height: 92px;
-        border-radius: 26px;
-        background: linear-gradient(135deg, var(--primary), var(--accent));
-        color: white;
-        margin-bottom: 22px;
-        box-shadow: 0 14px 30px rgba(30, 144, 255, 0.28);
-        animation: float 3s ease-in-out infinite;
-      }
-
-      .logo-box svg {
-        width: 48px;
-        height: 48px;
-      }
-
-      @keyframes float {
-        0%,
-        100% {
-          transform: translateY(0);
-        }
-        50% {
-          transform: translateY(-8px);
-        }
-      }
-
-      .brand {
-        font-size: 34px;
-        font-weight: 800;
-        color: var(--primary);
-        margin-bottom: 8px;
-      }
-
-      .subtitle {
-        color: var(--muted);
-        font-size: 17px;
-        margin-bottom: 34px;
-      }
-
-      .content {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 24px;
-        margin-bottom: 34px;
-      }
-
-      .language-box {
-        background: var(--light);
-        border-radius: 22px;
-        padding: 28px 24px;
-        border: 1px solid rgba(30, 144, 255, 0.12);
-      }
-
-      .language-box h2 {
-        color: var(--primary);
-        font-size: 26px;
-        margin-bottom: 12px;
-      }
-
-      .language-box p {
-        line-height: 1.8;
-        color: #4b5563;
-        font-size: 16px;
-      }
-
-      .arabic {
-        direction: rtl;
-        font-family: "Tajawal", sans-serif;
-      }
-
-      .status {
-        display: inline-flex;
-        align-items: center;
-        gap: 10px;
-        background: #eaf5ff;
-        color: var(--primary);
-        border-radius: 999px;
-        padding: 10px 18px;
-        font-weight: 700;
-        margin-bottom: 24px;
-      }
-
-      .dot {
-        width: 10px;
-        height: 10px;
-        border-radius: 50%;
-        background: var(--accent);
-        box-shadow: 0 0 0 6px rgba(30, 144, 255, 0.16);
-      }
-
-      .contact {
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-        gap: 14px;
-        margin-top: 10px;
-      }
-
-      .contact a {
-        background: var(--primary);
-        color: var(--white);
-        padding: 13px 18px;
-        border-radius: 14px;
-        font-weight: 700;
-        transition: 0.25s;
-      }
-
-      .contact a:hover {
-        transform: translateY(-3px);
-        background: var(--accent);
-      }
-
-      .footer {
-        margin-top: 28px;
-        color: var(--muted);
-        font-size: 14px;
-      }
-
-      @media (max-width: 760px) {
-        .card {
-          padding: 30px 20px;
-          border-radius: 22px;
-        }
-
-        .content {
-          grid-template-columns: 1fr;
-        }
-
-        .brand {
-          font-size: 28px;
-        }
-
-        .language-box h2 {
-          font-size: 23px;
-        }
-      }
-    </style>
-  </head>
-
-  <body>
-    <div class="bg-circle circle-1"></div>
-    <div class="bg-circle circle-2"></div>
-
-    <main class="card">
-      <div class="logo-box">
-        <svg viewBox="0 0 24 24" fill="none">
-          <path
-            d="M4 20h16"
-            stroke="currentColor"
-            stroke-width="2"
-            stroke-linecap="round"
-          />
-          <path
-            d="M6 20l2.5-10h7L18 20"
-            stroke="currentColor"
-            stroke-width="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-          />
-          <path
-            d="M9 10V6a3 3 0 0 1 6 0v4"
-            stroke="currentColor"
-            stroke-width="2"
-            stroke-linecap="round"
-          />
-        </svg>
+<header id="home" class="hero">
+  <div class="heroImage"></div><div class="heroOverlay"></div><div class="heroGrid container">
+    <div class="heroCopy">
+      <div class="ey lightEy" data-i18n="heroEy">TYPE APPROVAL · MIDDLE EAST & AFRICA</div>
+      <h1 data-i18n="heroTitle">Regulatory clarity.<br><span>Market access.</span></h1>
+      <p data-i18n="heroText">AFAQ JOOD coordinates Type Approval for telecom, RF, wireless and connected products across selected Middle East and African markets — from route assessment to authority follow-up and approval close-out.</p>
+      <div class="actions"><a class="btn primary" href="#markets" data-i18n="explore">Explore Markets</a><a class="btn ghost" href="#contact" data-i18n="product">Assess My Product</a></div>
+      <div class="heroTrust"><span><i class="checkIcon">✓</i><b data-i18n="trust1">Market-specific route mapping</b></span><span><i class="checkIcon">✓</i><b data-i18n="trust2">Technical file readiness</b></span><span><i class="checkIcon">✓</i><b data-i18n="trust3">Authority coordination</b></span></div>
+    </div>
+    <div class="heroAside">
+      <div class="heroGlass">
+        <div class="heroGlassTop"><span class="statusDot"></span><span data-i18n="heroCardEy">REGULATORY MARKET ACCESS</span></div>
+        <h3 data-i18n="heroCardTitle">One coordinated path from product file to national approval.</h3>
+        <div class="heroMiniGrid"><div><strong>38</strong><span data-i18n="routesStat">market routes</span></div><div><strong>2</strong><span data-i18n="regionsStat">regions</span></div><div><strong>6</strong><span data-i18n="stagesStat">core stages</span></div></div>
+        <a href="#process" class="textLink" data-i18n="seeProcess">See our process <span>→</span></a>
       </div>
+    </div>
+  </div>
+</header>
 
-      <h1 class="brand">Afaq Jood</h1>
+<section id="about" class="section aboutSection"><div class="container aboutGrid">
+  <div class="aboutCopy"><div class="ey" data-i18n="aboutEy">ABOUT AFAQ JOOD</div><h2 data-i18n="aboutTitle">Your regulatory bridge between product engineering and market entry.</h2><p data-i18n="aboutText">AFAQ JOOD is a Type Approval and Regulatory Compliance coordination company based in Yemen. We help international manufacturers, OEMs, ODMs, exporters and technology companies navigate country-specific approval requirements across selected Middle East and African markets.</p><p class="muted" data-i18n="aboutText2">Our role is coordination: product assessment, regulatory route mapping, technical-file readiness, application preparation, authority communication, local partner coordination and certificate close-out.</p></div>
+  <div class="aboutVisual"><div class="imageCard"><img src="https://images.unsplash.com/photo-1750711158632-5273ec9b9b86?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=82&w=1400" alt="Wireless router and network switch" loading="lazy"><div class="imageCaption"><span class="iconBadge"><svg viewBox="0 0 24 24"><path d="M4 17V9m4 8V6m4 11V3m4 14v-7m4 7V5"></path></svg></span><div><b data-i18n="visualTitle">Connected technology</b><small data-i18n="visualText">Wireless, telecom and network equipment</small></div></div></div></div>
+</div></section>
 
-      <p class="subtitle">Type Approval & Regulatory Compliance Services</p>
+<section id="services" class="section soft"><div class="container"><div class="sectionHead"><div><div class="ey" data-i18n="servicesEy">TYPE APPROVAL SERVICES</div><h2 data-i18n="servicesTitle">A complete coordination layer around the approval file.</h2><p data-i18n="servicesText">Focused on Type Approval — not a long list of unrelated services. We coordinate the regulatory steps and evidence required for market entry.</p></div><a class="btn primary" href="#contact" data-i18n="start">Start a Type Approval Request</a></div>
+  <div class="serviceGrid">
+    <article class="serviceCard"><span class="serviceIcon"><svg viewBox="0 0 24 24"><path d="M4 5h16v14H4z"></path><path d="M8 9h8M8 13h5"></path></svg></span><span class="num">01</span><h3 data-i18n="s1">Product & Technology Assessment</h3><p data-i18n="s1p">Identify the product category, wireless functions, technologies, models and likely regulatory route.</p></article>
+    <article class="serviceCard"><span class="serviceIcon"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"></circle><path d="M12 4v16M4 12h16"></path></svg></span><span class="num">02</span><h3 data-i18n="s2">Authority & Route Mapping</h3><p data-i18n="s2p">Map the competent authority, approval category, applicant conditions and country-specific path.</p></article>
+    <article class="serviceCard"><span class="serviceIcon"><svg viewBox="0 0 24 24"><path d="M6 3h9l3 3v15H6z"></path><path d="M9 11h6M9 15h6M9 7h4"></path></svg></span><span class="num">03</span><h3 data-i18n="s3">Technical File Review</h3><p data-i18n="s3p">Coordinate RF, EMC, safety, SAR/RF exposure, datasheets, manuals, labels, DoC and TCF evidence.</p></article>
+    <article class="serviceCard"><span class="serviceIcon"><svg viewBox="0 0 24 24"><path d="M6 3h12v18H6z"></path><path d="M9 8h6M9 12h6M9 16h4"></path></svg></span><span class="num">04</span><h3 data-i18n="s4">Application Preparation</h3><p data-i18n="s4p">Prepare application forms, model information, declarations, authorization letters and supporting documents.</p></article>
+    <article class="serviceCard"><span class="serviceIcon"><svg viewBox="0 0 24 24"><path d="M5 12h14"></path><path d="m13 6 6 6-6 6"></path><circle cx="5" cy="12" r="2"></circle></svg></span><span class="num">05</span><h3 data-i18n="s5">Submission & Authority Follow-up</h3><p data-i18n="s5p">Coordinate filing, clarifications, corrections, status requests and communication with the authority or partner.</p></article>
+    <article class="serviceCard"><span class="serviceIcon"><svg viewBox="0 0 24 24"><path d="M12 21s7-6.1 7-12A7 7 0 1 0 5 9c0 5.9 7 12 7 12Z"></path><circle cx="12" cy="9" r="2.2"></circle></svg></span><span class="num">06</span><h3 data-i18n="s6">Local Representative Coordination</h3><p data-i18n="s6p">Coordinate importers, local representatives or applicant arrangements where the route requires them.</p></article>
+    <article class="serviceCard"><span class="serviceIcon"><svg viewBox="0 0 24 24"><path d="M5 12.5 9.2 17 19 7"></path><circle cx="12" cy="12" r="9"></circle></svg></span><span class="num">07</span><h3 data-i18n="s7">Approval & Certificate Coordination</h3><p data-i18n="s7p">Coordinate final approval records, certificate details, validity information and client delivery.</p></article>
+    <article class="serviceCard"><span class="serviceIcon"><svg viewBox="0 0 24 24"><path d="M12 3v18M3 12h18"></path><path d="M7 7l10 10M17 7 7 17"></path></svg></span><span class="num">08</span><h3 data-i18n="s8">Post-Approval Support</h3><p data-i18n="s8p">Support renewals, model changes, variants, label questions and future market submissions where applicable.</p></article>
+  </div>
+</div></section>
 
-      <div class="status">
-        <span class="dot"></span>
-        Website Under Construction
-      </div>
+<section class="section visualBand"><div class="container visualGrid"><div class="visualMain"><img src="https://images.unsplash.com/photo-1780805419699-65fb489042c1?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=82&w=1800" alt="Telecommunications tower" data-alt-i18n="towerAlt" loading="lazy"><div class="visualOverlay"><div class="ey lightEy" data-i18n="visualEy">THE PRODUCTS WE SEE EVERY DAY</div><h2 data-i18n="visualTitle2">From wireless hardware to connected infrastructure.</h2><p data-i18n="visualText2">Routers, gateways, access points, cellular devices, IoT, GPS, Bluetooth, Wi-Fi and other radio-enabled equipment can require market-specific approval.</p></div></div><div class="visualSide"><div class="sideStat"><strong>RF</strong><span data-i18n="rfStat">Radio & wireless evidence</span></div><div class="sideStat"><strong>EMC</strong><span data-i18n="emcStat">Electromagnetic compatibility</span></div><div class="sideStat"><strong>SAFETY</strong><span data-i18n="safetyStat">Safety evidence where applicable</span></div></div></div></section>
 
-      <section class="content">
-        <div class="language-box">
-          <h2>Coming Soon</h2>
+<section id="products" class="section productsSection"><div class="container"><div class="sectionHead"><div><div class="ey" data-i18n="productsEy">PRODUCT SCOPE</div><h2 data-i18n="productsTitle">Type Approval for connected products.</h2><p data-i18n="productsText">We assess the product technology first, then map the applicable country route and evidence package.</p></div><a class="btn ghost" href="#contact" data-i18n="productsCta">Check my product</a></div><div class="productGrid">
+  <article class="productCard"><div class="productIcon"><svg viewBox="0 0 24 24"><rect x="4" y="4" width="16" height="12" rx="2"></rect><path d="M8 20h8M12 16v4"></path></svg></div><h3 data-i18n="prod1">Routers & Gateways</h3><p data-i18n="prod1p">Network equipment, gateways and customer-premises devices with wired or wireless connectivity.</p></article>
+  <article class="productCard"><div class="productIcon"><svg viewBox="0 0 24 24"><path d="M5 10a10 10 0 0 1 14 0M8 13a6 6 0 0 1 8 0M11 16a2 2 0 0 1 2 0"></path><circle cx="12" cy="19" r="1"></circle></svg></div><h3 data-i18n="prod2">Wi-Fi & Bluetooth</h3><p data-i18n="prod2p">WLAN, Bluetooth, short-range and other radio-enabled products.</p></article>
+  <article class="productCard"><div class="productIcon"><svg viewBox="0 0 24 24"><rect x="7" y="3" width="10" height="18" rx="2"></rect><path d="M10 6h4M10 18h4"></path></svg></div><h3 data-i18n="prod3">4G / LTE / 5G</h3><p data-i18n="prod3p">Cellular terminals, CPE, trackers and connected devices using mobile networks.</p></article>
+  <article class="productCard"><div class="productIcon"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"></circle><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M18.4 5.6l-2.1 2.1M7.7 16.3l-2.1 2.1"></path></svg></div><h3 data-i18n="prod4">IoT & Industrial Wireless</h3><p data-i18n="prod4p">Connected sensors, industrial IoT and wireless control equipment.</p></article>
+  <article class="productCard"><div class="productIcon"><svg viewBox="0 0 24 24"><path d="M12 21s7-5.8 7-12a7 7 0 1 0-14 0c0 6.2 7 12 7 12Z"></path><circle cx="12" cy="9" r="2.2"></circle></svg></div><h3 data-i18n="prod5">GPS & Tracking</h3><p data-i18n="prod5p">Vehicle, asset and personal tracking products with GNSS and cellular functions.</p></article>
+  <article class="productCard"><div class="productIcon"><svg viewBox="0 0 24 24"><path d="M5 8h14v11H5z"></path><path d="M8 8V5h8v3M8 12h8M9 16h6"></path></svg></div><h3 data-i18n="prod6">POS & Smart Devices</h3><p data-i18n="prod6p">POS terminals, smart devices and other connected equipment requiring market approval.</p></article>
+</div></div></section>
 
-          <p>
-            Our official website is currently under construction.<br />
-            We are preparing a professional platform to introduce our Type
-            Approval and regulatory compliance services in Yemen.
-          </p>
-        </div>
+<section id="markets" class="section marketsSection"><div class="container"><div class="sectionHead marketHead"><div><div class="ey" data-i18n="marketsEy">MARKET COVERAGE</div><h2 data-i18n="marketsTitle">Explore the markets. Open the route.</h2><p data-i18n="marketsText">Use the live map to explore our selected Middle East & Africa coverage. Click a market marker for the country route, authority and key approval facts.</p></div><div class="marketCount"><strong id="countryCount">38</strong><span data-i18n="marketRoutes">market routes</span></div></div>
+  <div class="marketMapBox"><div class="mapHeader"><div><b data-i18n="mapTitle">Interactive regulatory coverage map</b><span data-i18n="mapSub">Selected AFAQ JOOD reference markets · OpenStreetMap</span></div><div class="mapLegend"><i></i><span data-i18n="mapLegend">Click a marker to open country information</span></div></div><div id="approvalMap" class="approvalMap"></div></div>
+  <div class="marketDirectory"><div class="directoryTop"><div><b data-i18n="directoryTitle">Selected markets</b><span data-i18n="directorySub">A compact view keeps the page clean. Use More Markets to reveal the full directory.</span></div><div class="countriesToolbar"><button class="filter active" data-region="All" data-i18n="allMarkets">All</button><button class="filter" data-region="Middle East" data-i18n="middleEast">Middle East</button><button class="filter" data-region="Africa" data-i18n="africa">Africa</button><input id="countrySearch" class="search" data-placeholder="searchPlaceholder" placeholder="Search country or authority…"></div></div><div id="countryGrid" class="countryGrid"></div><button id="moreMarketsBtn" class="moreMarketsBtn" type="button"><span data-i18n="moreMarkets">More Markets</span><b>+</b></button></div>
+</div></section>
 
-        <div class="language-box arabic">
-          <h2>الموقع تحت الإنشاء</h2>
+<section id="news" class="section newsSection"><div class="container"><div class="sectionHead"><div><div class="ey" data-news-i18n="ey">REGULATORY INTELLIGENCE</div><h2 data-news-i18n="title">Latest regulatory news</h2><p data-news-i18n="intro">Country-specific regulatory updates, Type Approval developments and market-access notices.</p></div><a class="btn ghost" href="news.html" data-news-i18n="viewAll">View all news</a></div><div id="homeNewsGrid" class="newsGrid"><div class="newsLoading" data-news-i18n="loading">Loading news…</div></div></div></section>
+<section id="process" class="section soft"><div class="container"><div class="sectionHead"><div><div class="ey" data-i18n="processEy">TYPE APPROVAL PROCESS</div><h2 data-i18n="processTitle">A controlled path from product to approval.</h2><p data-i18n="processText">Every project is assessed against the target market, product technology and evidence available before submission.</p></div></div><div class="steps processSteps">
+  <div class="step"><b>01</b><h3 data-i18n="p1">Product Assessment</h3><p data-i18n="p1p">Model, technology, radio functions and target market are reviewed.</p></div><div class="step"><b>02</b><h3 data-i18n="p2">Regulatory Route</h3><p data-i18n="p2p">Authority, approval category and market-specific requirements are mapped.</p></div><div class="step"><b>03</b><h3 data-i18n="p3">Document Review</h3><p data-i18n="p3p">Technical evidence and application documents are checked for readiness.</p></div><div class="step"><b>04</b><h3 data-i18n="p4">Application Coordination</h3><p data-i18n="p4p">The filing package is prepared and coordinated with the applicable route.</p></div><div class="step"><b>05</b><h3 data-i18n="p5">Authority Follow-up</h3><p data-i18n="p5p">Questions, clarifications, corrections and status requests are coordinated.</p></div><div class="step"><b>06</b><h3 data-i18n="p6">Approval Close-out</h3><p data-i18n="p6p">Certificate or approval records are coordinated and the project is closed.</p></div>
+</div></div></section>
 
-          <p>
-            نعمل حاليًا على تجهيز الموقع الرسمي لشركة آفاق جود.<br />
-            قريبًا سنطلق منصة احترافية للتعريف بخدماتنا في مجال الموافقات
-            النوعية والامتثال التنظيمي في اليمن.
-          </p>
-        </div>
-      </section>
+<section id="resources" class="section"><div class="container"><div class="sectionHead"><div><div class="ey" data-i18n="resourcesEy">TECHNICAL FILE</div><h2 data-i18n="resourcesTitle">Build the evidence before the application.</h2><p data-i18n="resourcesText">A strong Type Approval submission starts with a complete, traceable technical file.</p></div></div><div class="resourceGrid">
+  <div class="resourceCard"><span>01</span><h3 data-i18n="r1">Product Information</h3><p data-i18n="r1p">Model numbers, product photos, technical datasheet, block diagram, specifications and intended use.</p></div>
+  <div class="resourceCard"><span>02</span><h3 data-i18n="r2">RF / Radio Evidence</h3><p data-i18n="r2p">Frequency range, output power, bandwidth, modulation and applicable radio test evidence.</p></div>
+  <div class="resourceCard"><span>03</span><h3 data-i18n="r3">EMC Evidence</h3><p data-i18n="r3p">Applicable EMC reports and standards for the product configuration and technologies.</p></div>
+  <div class="resourceCard"><span>04</span><h3 data-i18n="r4">Safety Evidence</h3><p data-i18n="r4p">Safety, LVD, CB or equivalent evidence where the market route requires it.</p></div>
+  <div class="resourceCard"><span>05</span><h3 data-i18n="r5">Declarations & Authorization</h3><p data-i18n="r5p">DoC, authorization letters, applicant information and manufacturer details.</p></div>
+  <div class="resourceCard"><span>06</span><h3 data-i18n="r6">Manual & Labelling</h3><p data-i18n="r6p">User manual, rating label, regulatory marking and local-language requirements where applicable.</p></div>
+  <div class="resourceCard"><span>07</span><h3 data-i18n="r7">Cellular Evidence</h3><p data-i18n="r7p">IMEI, TAC, GSMA evidence and cellular technical information when relevant.</p></div>
+  <div class="resourceCard"><span>08</span><h3 data-i18n="r8">Country-Specific Documents</h3><p data-i18n="r8p">Local forms, importer or representative details, certificates and authority-specific documents.</p></div>
+</div><div class="dataNotice"><b data-i18n="noticeTitle">Important:</b> <span data-i18n="noticeText">Public information is a planning reference. Requirements, samples, testing routes, validity and authority procedures can change by product and filing route and must be reconfirmed before submission.</span></div></div></section>
 
-      <div class="contact">
-        <a href="mailto:afaqjood20@gmail.com"> Email Us </a>
+<section class="section soft faqSection"><div class="container"><div class="sectionHead"><div><div class="ey" data-i18n="faqEy">FAQ</div><h2 data-i18n="faqTitle">Questions manufacturers ask before filing.</h2></div></div><div class="faqGrid"><details open><summary data-i18n="faq1">Can CE reports be used?</summary><p data-i18n="faq1p">CE-based evidence may support some market routes, but acceptance depends on the product, standards, accreditation, technology and competent authority.</p></details><details><summary data-i18n="faq2">Are local samples always required?</summary><p data-i18n="faq2p">No. Sample requirements are market- and product-dependent. The country page should be checked before preparing shipment.</p></details><details><summary data-i18n="faq3">Do we need a local representative?</summary><p data-i18n="faq3p">Some markets or routes require a local importer, representative or applicant. This is confirmed before filing.</p></details><details><summary data-i18n="faq4">Does AFAQ JOOD guarantee approval?</summary><p data-i18n="faq4p">No. AFAQ JOOD coordinates the regulatory process but cannot guarantee a government authority's decision.</p></details></div></div></section>
 
-        <a href="https://wa.me/967777773496" target="_blank"> WhatsApp </a>
-      </div>
+<section id="contact" class="section contactSection"><div class="container"><div class="contactBox"><div><div class="ey lightEy" data-i18n="contactEy">START A TYPE APPROVAL PROJECT</div><h2 data-i18n="contactTitle">Tell us what you want to approve — and where.</h2><p data-i18n="contactText">Send the model, datasheet, target country and available RF/EMC/safety reports. We will review the likely Type Approval route and documentation needs.</p></div><div class="contactActions"><a class="btn primary" href="mailto:info@afaqjood.com?subject=Type%20Approval%20Inquiry%20-%20AFAQ%20JOOD" data-i18n="emailUs">Email AFAQ JOOD</a><a class="btn secondary" href="https://wa.me/967777773496?text=Hello%20AFAQ%20JOOD%2C%20I%20would%20like%20to%20discuss%20a%20Type%20Approval%20requirement." target="_blank" rel="noopener" data-i18n="whatsappUs">Open WhatsApp</a></div></div>
+<div class="contactChannels" aria-label="AFAQ JOOD contact channels" data-aria-i18n="contactChannelsAria"><a class="contactChannel" href="mailto:info@afaqjood.com"><span class="channelIcon"><svg viewBox="0 0 24 24"><path d="M3 5.5h18v13H3z"></path><path d="m4 7 8 6 8-6"></path></svg></span><span><b data-i18n="emailLabel">Email</b><small>info@afaqjood.com</small></span></a><a class="contactChannel" href="https://wa.me/967777773496?text=Hello%20AFAQ%20JOOD%2C%20I%20would%20like%20to%20discuss%20a%20Type%20Approval%20requirement." target="_blank" rel="noopener"><span class="channelIcon whatsappIcon"><svg viewBox="0 0 24 24"><path d="M20.5 11.5a8.2 8.2 0 0 1-12.1 7.2L3.5 20l1.4-4.6A8.2 8.2 0 1 1 20.5 11.5Z"></path><path d="M8.5 8.3c.3-.4.6-.4.9-.4l.7 1.7c.1.3 0 .5-.2.7l-.5.5c.6 1.2 1.5 2 2.7 2.6l.5-.5c.2-.2.4-.3.7-.2l1.7.7c0 .4-.1.8-.4 1.1-.4.4-1 .6-1.6.5-2.5-.6-4.6-2.7-5.2-5.2-.1-.6.1-1.2.7-1.6Z"></path></svg></span><span><b data-i18n="whatsappLabel">WhatsApp</b><small data-i18n="whatsappText">Direct project inquiries</small></span></a><a class="contactChannel" href="https://www.linkedin.com/in/afaq-jood-77a0133b2" target="_blank" rel="noopener"><span class="channelIcon linkedinIcon"><svg viewBox="0 0 24 24"><path d="M5 8.2V19H2.2V8.2H5ZM3.6 3A1.6 1.6 0 1 1 3.6 6.2 1.6 1.6 0 0 1 3.6 3ZM8.1 8.2h2.7v1.5h.1c.4-.8 1.4-1.8 3-1.8 3.2 0 3.8 2.1 3.8 4.9V19H15v-5.5c0-1.3 0-3-1.8-3s-2.1 1.4-2.1 2.9V19H8.1V8.2Z"></path></svg></span><span><b data-i18n="linkedinLabel">LinkedIn</b><small data-i18n="linkedinText">AFAQ JOOD company profile</small></span></a><div class="contactChannel static"><span class="channelIcon locationIcon"><svg viewBox="0 0 24 24"><path d="M12 21s7-6.1 7-12A7 7 0 1 0 5 9c0 5.9 7 12 7 12Z"></path><circle cx="12" cy="9" r="2.2"></circle></svg></span><span><b data-i18n="locationLabel">Office</b><small data-i18n="officeLocation">Aden, Yemen · Middle East & Africa</small></span></div></div></div></section>
 
-      <p class="footer">© 2026 Afaq Jood. All rights reserved.</p>
-    </main>
-  </body>
-</html>
+<footer class="footer"><div class="container footerGrid"><div class="footerBrand"><img class="footerLogo" src="assets/afaq-jood-full-dark.png" alt="AFAQ JOOD"><p data-i18n="footerDesc">Type Approval coordination for telecom, RF and connected products across selected Middle East & African markets.</p><div class="footerSocial"><a href="mailto:info@afaqjood.com" aria-label="Email"><svg viewBox="0 0 24 24"><path d="M3 5.5h18v13H3z"></path><path d="m4 7 8 6 8-6"></path></svg></a><a href="https://wa.me/967777773496?text=Hello%20AFAQ%20JOOD" target="_blank" rel="noopener" aria-label="WhatsApp"><svg viewBox="0 0 24 24"><path d="M20.5 11.5a8.2 8.2 0 0 1-12.1 7.2L3.5 20l1.4-4.6A8.2 8.2 0 1 1 20.5 11.5Z"></path><path d="M8.5 8.3c.3-.4.6-.4.9-.4l.7 1.7c.1.3 0 .5-.2.7l-.5.5c.6 1.2 1.5 2 2.7 2.6l.5-.5c.2-.2.4-.3.7-.2l1.7.7c0 .4-.1.8-.4 1.1-.4.4-1 .6-1.6.5-2.5-.6-4.6-2.7-5.2-5.2-.1-.6.1-1.2.7-1.6Z"></path></svg></a><a href="https://www.linkedin.com/in/afaq-jood-77a0133b2" target="_blank" rel="noopener" aria-label="LinkedIn"><svg viewBox="0 0 24 24"><path d="M5 8.2V19H2.2V8.2H5ZM3.6 3A1.6 1.6 0 1 1 3.6 6.2 1.6 1.6 0 0 1 3.6 3ZM8.1 8.2h2.7v1.5h.1c.4-.8 1.4-1.8 3-1.8 3.2 0 3.8 2.1 3.8 4.9V19H15v-5.5c0-1.3 0-3-1.8-3s-2.1 1.4-2.1 2.9V19H8.1V8.2Z"></path></svg></a></div></div><div><h3 data-i18n="footerMarkets">Markets</h3><a href="#markets" data-i18n="directoryLink">Country Directory</a><a href="country.html?country=United%20Arab%20Emirates" data-i18n="footerUAE">UAE</a><a href="country.html?country=Saudi%20Arabia" data-i18n="footerSaudi">Saudi Arabia</a><a href="country.html?country=Qatar" data-i18n="footerQatar">Qatar</a><a href="country.html?country=Egypt" data-i18n="footerEgypt">Egypt</a></div><div><h3 data-i18n="footerServices">Type Approval</h3><a href="#services" data-i18n="footerProductAssessment">Product Assessment</a><a href="#services" data-i18n="footerTechnicalReview">Technical File Review</a><a href="#process" data-i18n="footerApplicationCoordination">Application Coordination</a><a href="#process" data-i18n="footerAuthorityFollowup">Authority Follow-up</a><a href="#resources" data-i18n="footerDocumentationGuide">Documentation Guide</a></div><div><h3 data-i18n="footerContact">Contact</h3><a href="mailto:info@afaqjood.com" data-i18n="footerEmail">info@afaqjood.com</a><a href="https://wa.me/967777773496?text=Hello%20AFAQ%20JOOD" target="_blank" rel="noopener" data-i18n="footerWhatsApp">WhatsApp</a><a href="https://www.linkedin.com/in/afaq-jood-77a0133b2" target="_blank" rel="noopener" data-i18n="footerLinkedIn">LinkedIn</a><span data-i18n="footerAden">Aden, Yemen</span><span data-i18n="footerRegion">Middle East & Africa</span><a href="#contact" data-i18n="requestLink">Request a Type Approval Review</a></div></div><div class="container footerBottom"><span data-i18n="copyright">© 2026 AFAQ JOOD. All rights reserved.</span><span data-i18n="footerNote">Regulatory information is subject to current authority confirmation.</span></div></footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script src="data.js"></script>
+<script src="app.js"></script><script src="news.js"></script>
+</body></html>
