@@ -1,3 +1,12 @@
+window.dataLayer=window.dataLayer||[];
+function gtag(){window.dataLayer.push(arguments);}
+gtag('js',new Date());
+gtag('config','G-WESRVTLBV4');
+const afaqAnalyticsScript=document.createElement('script');
+afaqAnalyticsScript.async=true;
+afaqAnalyticsScript.src='https://www.googletagmanager.com/gtag/js?id=G-WESRVTLBV4';
+document.head.appendChild(afaqAnalyticsScript);
+
 (() => {
   'use strict';
   const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
