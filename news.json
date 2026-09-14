@@ -1,65 +1,5 @@
 [
   {
-    "id": "reg-uae-2026-v4",
-    "slug": "uae-tdra-type-approval-policy-version-4-effective-2026",
-    "countryCode": "AE",
-    "country": "United Arab Emirates",
-    "countrySlug": "united-arab-emirates",
-    "countryName": {
-      "en": "United Arab Emirates",
-      "ar": "الإمارات العربية المتحدة",
-      "zh": "阿联酋"
-    },
-    "authority": "TDRA",
-    "category": {
-      "en": "Type Approval",
-      "ar": "موافقة نوعية",
-      "zh": "型式认证"
-    },
-    "date": "2026-05-01",
-    "author": "AFAQ JOOD Regulatory Intelligence Team",
-    "impact": "high",
-    "products": [
-      "Telecommunications Equipment",
-      "Wi-Fi & Bluetooth",
-      "Cellular / 4G / 5G",
-      "IoT Devices"
-    ],
-    "tags": [
-      "UAE",
-      "TDRA",
-      "Type Approval",
-      "Version 4"
-    ],
-    "title": {
-      "en": "UAE Type Approval Policy Version 4 is now effective",
-      "ar": "بدء تطبيق سياسة اعتماد النوعية في الإمارات – النسخة 4",
-      "zh": "阿联酋型式认证政策第4版正式生效"
-    },
-    "summary": {
-      "en": "TDRA’s unified Type Approval Policy Version 4 became effective on 1 May 2026 and consolidates the main policy, requirements, procedures, testing, customs, market surveillance framework.",
-      "ar": "دخلت سياسة اعتماد النوعية الموحدة – النسخة 4 الصادرة عن TDRA حيز التطبيق في 1 مايو 2026، وتجمع السياسة والمتطلبات والإجراءات والفحوصات والتخليص الجمركي والرقابة السوقية في مرجعية واحدة.",
-      "zh": "TDRA 统一型式认证政策第4版于2026年5月1日生效，将政策、要求、程序、测试、海关、市场监管和服务要求整合为统一监管参考。"
-    },
-    "body": {
-      "en": "<p>TDRA states that Version 4 is the updated unified regulatory reference for telecommunications equipment and technologies in the UAE.</p><p>The policy consolidates previous Type Approval instruments and applies to relevant activities including registration, approval, import, distribution, display, sale and commercial use. The official policy was issued on 21 January 2026 and became effective on 1 May 2026.</p><p>For a specific product, the applicable route, technical evidence, service treatment should be checked against the current TDRA system and policy before filing.</p>",
-      "ar": "<p>توضح TDRA أن النسخة 4 هي المرجعية التنظيمية الموحدة والمحدثة لأجهزة وتقنيات الاتصالات في دولة الإمارات.</p><p>تجمع السياسة أدوات اعتماد النوعية السابقة وتشمل الأنشطة ذات الصلة بالتسجيل والاعتماد والاستيراد والتوزيع والعرض والبيع والاستخدام التجاري. صدرت السياسة في 21 يناير 2026 وبدأ تطبيقها في 1 مايو 2026.</p><p>بالنسبة لأي منتج محدد، يجب التحقق من المسار والأدلة الفنية وإجراءات الخدمة وفق نظام TDRA والسياسة الحالية قبل التقديم.</p>",
-      "zh": "<p>TDRA 表示，第4版是阿联酋电信设备和技术的最新统一监管参考。</p><p>该政策整合此前的型式认证监管文件，涵盖注册、认证、进口、分销、展示、销售和商业使用等相关活动。政策于2026年1月21日发布，并于2026年5月1日生效。</p><p>对于具体产品，应在提交申请前依据当前 TDRA 系统和政策确认适用路径、技术资料、服务要求。</p>"
-    },
-    "whatKnow": {
-      "en": "Use Version 4 as the primary TDRA reference rather than relying on older Version 3 documents.",
-      "ar": "استخدم النسخة 4 كمرجع TDRA الأساسي، ولا تعتمد على وثائق النسخة 3 القديمة باعتبارها الإطار الحالي.",
-      "zh": "应以第4版作为主要 TDRA 参考，不应将旧版第3版文件作为当前主要监管框架。"
-    },
-    "image": "/assets/news/uae/regulatory-update.webp",
-    "sourceName": "TDRA — Type Approval Policy Version 4 / Official FAQ",
-    "sourceUrl": "https://tdra.gov.ae/en/FAQs",
-    "sourceType": "Official Regulatory Authority",
-    "featured": true,
-    "status": "published",
-    "updatedAt": "2026-09-14T00:00:00Z"
-  },
-  {
     "id": "reg-egypt-2026-schemes",
     "slug": "egypt-ntra-type-approval-schemes-2026",
     "countryCode": "EG",
@@ -238,5 +178,53 @@
     "featured": false,
     "status": "published",
     "updatedAt": "2026-09-14T00:00:00Z"
+  },
+  {
+    "id": "reg-uae-2026-v4",
+    "slug": "uae-tdra-type-approval-policy-version-4-effective-2026",
+    "status": "published",
+    "country": "United Arab Emirates",
+    "countryCode": "AE",
+    "countryKey": "AE__united-arab-emirates__0",
+    "countrySlug": "united-arab-emirates",
+    "countryName": {
+      "en": "United Arab Emirates"
+    },
+    "authority": "TDRA",
+    "category": "",
+    "date": "2026-05-01",
+    "publishedAt": "2026-09-14T15:34:55.905Z",
+    "updatedAt": "2026-09-14T15:34:55.905Z",
+    "author": "AFAQ JOOD Regulatory Intelligence Team",
+    "impact": "high",
+    "featured": true,
+    "products": [
+      "Telecommunications Equipment",
+      "Wi-Fi & Bluetooth",
+      "Cellular / 4G / 5G",
+      "IoT Devices"
+    ],
+    "tags": [
+      "UAE",
+      "TDRA",
+      "Type Approval",
+      "Version 4"
+    ],
+    "title": {
+      "en": "UAE Type Approval Policy Version 4 is now effective"
+    },
+    "summary": {
+      "en": "TDRA’s unified Type Approval Policy Version 4 became effective on 1 May 2026 and consolidates the main policy, requirements, procedures, testing, customs, market surveillance framework."
+    },
+    "body": {
+      "en": "<p>TDRA states that Version 4 is the updated unified regulatory reference for telecommunications equipment and technologies in the UAE.</p><p>The policy consolidates previous Type Approval instruments and applies to relevant activities including registration, approval, import, distribution, display, sale and commercial use. The official policy was issued on 21 January 2026 and became effective on 1 May 2026.</p><p>For a specific product, the applicable route, technical evidence, service treatment should be checked against the current TDRA system and policy before filing.</p>"
+    },
+    "whatKnow": {
+      "en": "<p>Use Version 4 as the primary TDRA reference rather than relying on older Version 3 documents.</p>"
+    },
+    "sourceName": "TDRA — Type Approval Policy Version 4 / Official FAQ",
+    "sourceUrl": "https://tdra.gov.ae/en/FAQs",
+    "sourceType": "Official Regulatory Authority",
+    "image": "/assets/news/ae/uae-tdra-type-approval-policy-version-4-effective-2026.jpg"
   }
 ]
