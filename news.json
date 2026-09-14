@@ -190,5 +190,187 @@
     "sourceUrl": "https://www.tra.gov.eg/en/regulations/type-approval/type-approval-procedure/",
     "sourceType": "Official Regulatory Authority",
     "image": "/assets/news/eg/egypt-ntra-type-approval-schemes-2026.jpg"
+  },
+  {
+    "id": "news-1789405640451",
+    "slug": "saudi-arabia-updates-wireless-regulatory-requirements-for-ict-equipment",
+    "status": "published",
+    "country": "Saudi Arabia",
+    "countryCode": "SA",
+    "countryKey": "SA__saudi-arabia__1",
+    "countrySlug": "saudi-arabia",
+    "countryName": {
+      "en": "Saudi Arabia"
+    },
+    "authority": "CST",
+    "category": "Regulatory Update",
+    "date": "2026-09-14",
+    "publishedAt": "2026-09-14T17:07:20.452Z",
+    "updatedAt": "2026-09-14T17:07:20.453Z",
+    "author": "AFAQ JOOD Regulatory Intelligence Team",
+    "impact": "high",
+    "featured": true,
+    "products": [
+      "Wireless routers and networking equipment",
+      "cellular and mobile devices",
+      "IoT devices",
+      "short-range wireless equipment",
+      "RF equipment",
+      "connected ICT devices",
+      "Bluetooth and Wi-Fi-enabled products",
+      "radio communication equipment",
+      "and other telecommunications equipment subject to Saudi regulatory requirements"
+    ],
+    "tags": [
+      "approval",
+      "CST Saudi Arabia",
+      "SASO Saudi Arabia",
+      "Saudi Arabia ICT regulations",
+      "Saudi Arabia RF equipment approval",
+      "wireless device approval Saudi Arabia",
+      "telecommunications regulatory compliance",
+      "Saudi market access",
+      "IoT approval Saudi Arabia",
+      "radio equipment approval Saudi Arabia",
+      "Saudi Arabia regulatory requirements"
+    ],
+    "title": {
+      "en": "Saudi Arabia Updates Wireless Regulatory Requirements for ICT Equipment"
+    },
+    "summary": {
+      "en": "Saudi Arabia has introduced important regulatory changes affecting wireless ICT equipment, with updated conformity and market-access requirements for manufacturers and importers of connected and radio-enabled devices"
+    },
+    "body": {
+      "en": "<p>Saudi Arabia has introduced important regulatory changes affecting wireless Information and Communication Technology (ICT) equipment, reinforcing the requirements that manufacturers and importers need to consider when placing connected and radio-enabled products on the Saudi market.</p><p>The regulatory framework involves both the Communications, Space &amp; Technology Commission (CST) and the Saudi Standards, Metrology and Quality Organization (SASO), with requirements applying according to the type and characteristics of the equipment.</p><p>### What Products May Be Affected?</p><p>The requirements are particularly relevant to products that incorporate wireless or radio functionality, including:</p><p>* Wireless networking equipment and routers<br>* Cellular and mobile devices<br>* Internet of Things (IoT) equipment<br>* Short-range wireless devices<br>* Radio-frequency (RF) equipment<br>* Connected ICT products<br>* Other devices operating through regulated radio technologies</p><p>Manufacturers should identify the applicable technical and conformity requirements before shipping products to Saudi Arabia.</p><p>### Regulatory Compliance and Market Access</p><p>For international manufacturers, understanding the relationship between technical regulations, conformity assessment, product certification and telecommunications requirements is an important part of the Saudi market-entry process.</p><p>Depending on the product category, manufacturers may need to complete applicable conformity procedures and ensure that the equipment meets the relevant Saudi technical requirements before importation and commercialization.</p><p>The CST continues to play a central role in regulating telecommunications and ICT equipment, including requirements related to telecommunications devices, radio equipment and spectrum use.</p><p>### What Manufacturers Should Consider</p><p>Companies planning to introduce wireless products into Saudi Arabia should review their products before shipment and determine:</p><p>* The applicable Saudi technical requirements<br>* Whether the product falls within telecommunications or radio equipment regulations<br>* Applicable conformity assessment requirements<br>* Required technical documentation and test reports<br>* Radio-frequency and spectrum-related requirements, where applicable<br>* Import and market-access requirements</p><p>Early regulatory assessment can help manufacturers avoid unnecessary delays during the approval and import process.</p><p>### AFAQ JOOD Regulatory Support</p><p>AFAQ JOOD supports international manufacturers, exporters and technology companies with Type Approval and regulatory compliance coordination across selected markets in the Middle East and Africa.</p><p>Our team helps clients understand applicable requirements, organize technical documentation and coordinate regulatory procedures with the relevant authorities and local stakeholders.</p><p>For companies planning to enter the Saudi Arabian market, obtaining a clear understanding of the applicable regulatory pathway at an early stage can help make the market-access process more structured and efficient.</p><p>**Regulatory requirements may vary depending on the product type, technology, frequency bands and applicable Saudi regulations. Manufacturers should verify the requirements applicable to their specific product before market entry.**<br></p>"
+    },
+    "whatKnow": {
+      "en": "<p>Manufacturers planning to introduce wireless and ICT equipment into the Saudi Arabian market should assess the applicable regulatory requirements before shipment.</p><p>The requirements may vary depending on the product category, wireless technologies, frequency bands, intended use and applicable Saudi technical regulations. Manufacturers should therefore:</p><p>* Identify the applicable regulatory and technical requirements for the product.<br>* Confirm whether the equipment falls under telecommunications, radio or other regulated product categories.<br>* Prepare the required technical documentation and relevant test reports.<br>* Verify conformity assessment and certification requirements before importation.<br>* Review applicable radio-frequency and spectrum requirements for wireless products.<br>* Ensure that product information and documentation are consistent across the regulatory submission.<br>* Confirm the applicable market-access procedures before commercializing the product in Saudi Arabia.</p><p>Early regulatory assessment can help manufacturers identify potential compliance issues and reduce delays during the market-entry process.<br></p>"
+    },
+    "sourceName": "Communications, Space & Technology Commission (CST)",
+    "sourceUrl": "https://www.cst.gov.sa/regulations-and-licenses/regulations/Document-1582?utm_source=chatgpt.com",
+    "sourceType": "Official Regulatory Authority",
+    "image": "/assets/news/sa/saudi-arabia-updates-wireless-regulatory-requirements-for-ict-equipment.jpg"
+  },
+  {
+    "id": "news-1789413783935",
+    "slug": "qatar-updates-its-national-frequency-allocation-plan-for-wireless-and-radio-equipment",
+    "status": "published",
+    "country": "Qatar",
+    "countryCode": "QA",
+    "countryKey": "QA__qatar__2",
+    "countrySlug": "qatar",
+    "countryName": {
+      "en": "Qatar"
+    },
+    "authority": "CRA",
+    "category": "Regulatory Update",
+    "date": "2026-02-08",
+    "publishedAt": "2026-09-14T19:42:38.105Z",
+    "updatedAt": "2026-09-14T19:42:38.105Z",
+    "author": "AFAQ JOOD Regulatory Intelligence Team",
+    "impact": "high",
+    "featured": false,
+    "products": [
+      "Wireless and radio communication equipment",
+      "RF equipment",
+      "Wi-Fi devices",
+      "cellular equipment",
+      "satellite communication equipment",
+      "IoT devices",
+      "wireless cameras",
+      "short-range devices",
+      "and other products operating on regulated radio frequencies"
+    ],
+    "tags": [
+      "Qatar Type Approval",
+      "Qatar wireless equipment approval",
+      "Qatar telecom equipment approval",
+      "Qatar CRA",
+      "Qatar Communications Regulatory Authority",
+      "Qatar frequency allocation",
+      "Qatar RF equipment approval",
+      "Qatar radio equipment approval",
+      "Qatar ICT regulations",
+      "Qatar regulatory compliance",
+      "Qatar market access",
+      "Qatar RTTE Type Approval",
+      "Qatar wireless regulations",
+      "Qatar telecommunications regulations"
+    ],
+    "title": {
+      "en": "Qatar Updates Its National Frequency Allocation Plan for Wireless and Radio Equipment"
+    },
+    "summary": {
+      "en": "Qatar's Communications Regulatory Authority has issued an updated National Frequency Allocation Plan, reflecting developments in radio spectrum use and supporting the country's growing demand for wireless communications and emerging technologies"
+    },
+    "body": {
+      "en": "<p>Qatar's Communications Regulatory Authority (CRA) has issued an updated version of the Qatar National Frequency Allocation Plan, reflecting the continued development of wireless communications and the increasing demand for radio-frequency spectrum in the country.</p><p>The updated plan provides an important regulatory reference for the use of radio frequencies across different services and technologies and supports the efficient management of spectrum resources in Qatar.</p><p>### What Does the Update Mean?</p><p>The National Frequency Allocation Plan establishes the framework for how radio-frequency spectrum is allocated to different services and applications.</p><p>For manufacturers and technology companies, the frequency allocation framework is particularly relevant when developing or exporting products that incorporate radio or wireless technologies.</p><p>Products operating within regulated frequency bands may need to comply with applicable technical and regulatory requirements before they can be imported, used or commercialized in Qatar.</p><p>### Products That May Be Affected</p><p>The update is relevant to a wide range of wireless and radio-enabled products, including:</p><p>* Wireless networking equipment<br>* Wi-Fi-enabled devices<br>* RF equipment<br>* Cellular and mobile equipment<br>* Internet of Things (IoT) devices<br>* Short-range wireless devices<br>* Wireless cameras<br>* Radio communication equipment<br>* Satellite communication equipment<br>* Other telecommunications equipment using regulated radio frequencies</p><p>The specific requirements applicable to a product depend on its technology, operating frequencies, intended use and applicable regulatory framework.</p><p>### What Manufacturers Should Consider</p><p>Manufacturers planning to enter the Qatari market should assess the regulatory requirements applicable to their products before shipment.</p><p>Key considerations include:</p><p>* Identifying the radio frequencies used by the equipment.<br>* Confirming that the operating frequencies are permitted for the intended application.<br>* Reviewing applicable technical and regulatory requirements.<br>* Preparing relevant technical documentation and test reports.<br>* Determining whether Type Approval is required.<br>* Checking applicable import and market-access procedures.<br>* Ensuring that the product configuration and technical specifications are consistent with the submitted documentation.</p><p>Qatar's CRA provides Type Approval procedures for Radio and Telecommunications Terminal Equipment (RTTE) through its e-Spectrum services platform. The platform allows applicants to submit and track Type Approval applications for applicable equipment.</p><p>### Regulatory Compliance in Qatar</p><p>The updated National Frequency Allocation Plan represents an important reference for companies developing or supplying wireless technologies in Qatar.</p><p>Manufacturers should consider regulatory assessment at an early stage of the product launch process to identify applicable frequency, Type Approval and market-access requirements.</p><p>Requirements may vary according to the product category, technology, frequency bands and intended application. Manufacturers should therefore verify the requirements applicable to their specific equipment before entering the Qatari market.</p><p>### AFAQ JOOD Regulatory Support</p><p>AFAQ JOOD supports international manufacturers, exporters and technology companies with Type Approval and regulatory compliance coordination across selected markets in the Middle East and Africa.</p><p>Our team helps clients assess applicable requirements, organize technical documentation and coordinate regulatory procedures with relevant authorities and local stakeholders.</p><p>For manufacturers planning to introduce wireless or telecommunications equipment into Qatar, early regulatory assessment can help establish a clear and structured market-entry pathway.<br></p>"
+    },
+    "whatKnow": {
+      "en": "<p>Manufacturers of wireless and radio-enabled products should review the applicable frequency and regulatory requirements before introducing their products into the Qatari market.</p><p>The updated frequency allocation framework is particularly relevant to products that operate on regulated radio frequencies. Manufacturers should verify the applicable frequency bands, technical requirements and regulatory procedures for their specific equipment.</p><p>For telecommunications and radio terminal equipment, Qatar's Communications Regulatory Authority provides regulatory procedures for Type Approval through its e-Spectrum platform. Manufacturers and importers should ensure that the required technical documentation and conformity information are prepared before market entry</p>"
+    },
+    "sourceName": "Communications Regulatory Authority (CRA) – Qatar",
+    "sourceUrl": "https://www.cra.gov.qa/en/media/press-releases?utm_source=chatgpt.com",
+    "sourceType": "Official Regulatory Authority",
+    "image": "/assets/news/qa/qatar-updates-its-national-frequency-allocation-plan-for-wireless-and-radio-equipment.jpg"
+  },
+  {
+    "id": "news-1789414949568",
+    "slug": "kuwait-opens-compliance-window-for-unlicensed-wireless-devices",
+    "status": "published",
+    "country": "Kuwait",
+    "countryCode": "KW",
+    "countryKey": "KW__kuwait__3",
+    "countrySlug": "kuwait",
+    "countryName": {
+      "en": "Kuwait"
+    },
+    "authority": "CITRA",
+    "category": "Regulatory Update",
+    "date": "2026-06-08",
+    "publishedAt": "2026-09-14T19:42:38.105Z",
+    "updatedAt": "2026-09-14T19:42:38.105Z",
+    "author": "AFAQ JOOD Regulatory Intelligence Team",
+    "impact": "high",
+    "featured": false,
+    "products": [
+      "Wireless communication equipment",
+      "radio devices",
+      "wireless networking equipment",
+      "RF equipment",
+      "telecommunications devices",
+      "and other wireless equipment subject to CITRA regulatory requirements"
+    ],
+    "tags": [
+      "Kuwait Type Approval",
+      "Kuwait wireless equipment approval",
+      "Kuwait telecom equipment approval",
+      "CITRA Kuwait",
+      "Kuwait RF equipment approval",
+      "Kuwait wireless regulations",
+      "Kuwait telecommunications regulations",
+      "Kuwait regulatory compliance",
+      "Kuwait market access",
+      "wireless device approval Kuwait",
+      "telecommunications equipment Kuwait",
+      "CITRA Type Approval",
+      "Kuwait radio equipment approval"
+    ],
+    "title": {
+      "en": "Kuwait Opens Compliance Window for Unlicensed Wireless Devices"
+    },
+    "summary": {
+      "en": "Kuwait's Communications and Information Technology Regulatory Authority (CITRA) has opened a three-month compliance window for unlicensed wireless devices circulating in the country, allowing concerned parties to regularize their status without penalties during the announced period"
+    },
+    "body": {
+      "en": "<p>Kuwait's Communications and Information Technology Regulatory Authority (CITRA) has announced a three-month compliance window for unlicensed wireless devices currently circulating in the country.</p><p>The announcement, issued on June 8, 2026, provides an opportunity for concerned parties to regularize the status of unlicensed wireless equipment during the specified period without penalties when the equipment is surrendered within the announced timeframe.</p><p>### Why This Matters for Manufacturers and Suppliers</p><p>The announcement highlights the importance of ensuring that wireless and telecommunications equipment entering the Kuwaiti market complies with the country's regulatory framework.</p><p>Manufacturers, suppliers and importers should assess the regulatory status of their products before shipment and confirm whether the equipment requires Type Approval or another authorization from CITRA.</p><p>### Products That May Be Affected</p><p>The regulatory requirements may be relevant to a wide range of wireless and telecommunications products, including:</p><p>* Wireless communication equipment<br>* Wi-Fi and networking equipment<br>* RF equipment<br>* Radio communication devices<br>* Wireless IoT products<br>* Short-range wireless devices<br>* Telecommunications terminal equipment<br>* Other equipment operating through regulated wireless technologies</p><p>The specific requirements depend on the product type, technical characteristics, wireless technologies and applicable regulatory requirements.</p><p>### Type Approval Requirements in Kuwait</p><p>CITRA provides a Type Approval service for telecommunications devices to ensure their compatibility with approved technical specifications.</p><p>The authority's published requirements include technical specifications of the equipment, authorization from the manufacturer, applicable Declaration of Conformity documentation and laboratory reports from approved laboratories.</p><p>CITRA's Type Approval regulations also cover wired and wireless communication devices and establish procedures for reviewing technical documentation and verifying testing conducted by recognized and accredited laboratories.</p><p>### What Manufacturers Should Consider</p><p>Manufacturers and exporters planning to enter the Kuwaiti market should:</p><p>* Identify the applicable CITRA requirements before shipment.<br>* Determine whether Type Approval is required for the product.<br>* Verify the technical specifications and applicable standards.<br>* Prepare the required Declaration of Conformity and supporting documents.<br>* Ensure that laboratory test reports meet the applicable requirements.<br>* Confirm that the product configuration matches the submitted technical documentation.<br>* Coordinate the regulatory process before importing or commercializing the equipment.</p><p>Early regulatory assessment can help companies identify compliance requirements and reduce potential delays during the market-entry process.</p><p>### AFAQ JOOD Regulatory Support</p><p>AFAQ JOOD supports international manufacturers, exporters and technology companies with Type Approval and regulatory compliance coordination across selected markets in the Middle East and Africa.</p><p>Our team assists clients in understanding applicable requirements, organizing technical documentation and coordinating regulatory procedures with relevant authorities and local stakeholders.</p><p>Manufacturers planning to introduce wireless or telecommunications equipment into Kuwait should assess the applicable regulatory pathway before shipment to help ensure a structured market-entry process.</p><p>Regulatory requirements may vary according to the product category, technology and intended use. Manufacturers should verify the requirements applicable to their specific equipment before entering the Kuwaiti market.<br></p>"
+    },
+    "whatKnow": {
+      "en": "<p>Manufacturers, suppliers and importers of wireless equipment intended for the Kuwaiti market should verify that their products comply with the applicable CITRA requirements before importation, distribution or use.</p><p>Companies should confirm whether their equipment requires Type Approval or other regulatory authorization and ensure that the relevant technical documentation, conformity information and laboratory reports are available where required.</p><p>CITRA's current Type Approval service covers telecommunications devices and requires technical specifications, manufacturer authorization, applicable Declaration of Conformity documentation and laboratory reports from approved laboratories</p>"
+    },
+    "sourceName": "Communication and Information Technology Regulatory Authority (CITRA) – Kuwait",
+    "sourceUrl": "https://www.citra.gov.kw/sites/ar/Pages/DecisionsDetails.aspx?id=87&utm_source=chatgpt.com",
+    "sourceType": "Official Regulatory Authority",
+    "image": "/assets/news/kw/kuwait-opens-compliance-window-for-unlicensed-wireless-devices.jpg"
   }
 ]
