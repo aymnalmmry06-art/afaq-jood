@@ -1,2 +1,3 @@
 /news/* /news-article.html?slug=:splat 200
+/type-approval/* /country.html 200
 /api/news-admin /.netlify/functions/news-admin 200
