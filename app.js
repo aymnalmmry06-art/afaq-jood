@@ -191,7 +191,8 @@
   function productName(x,lang){return (PRODUCT_NAMES[lang]&&PRODUCT_NAMES[lang][x])||x}
   function countryFlagHtml(c,cls=''){const asset=String(c.flagAsset||'').trim();const alt=countryName(c,localStorage.getItem(langStore)||'en');if(asset)return `<img class="flagEmojiAsset ${esc(cls)}" src="${esc(asset)}" alt="${esc(alt)} flag" loading="lazy">`;return `<span class="flagEmojiGlyph ${esc(cls)}" aria-label="${esc(alt)} flag">${esc(c.flag||'')}</span>`;}
 
-  function countryCard(c){const lang=localStorage.getItem(langStore)||'en';return `<a class="countryCard" href="country.html?country=${encodeURIComponent(c.name)}"><div class="countryCardTop"><span class="countryFlagMini">${countryFlagHtml(c)}</span><span class="regionPill">${esc(countryRegion(c,lang))}</span></div><div class="countryName">${esc(countryName(c,lang))}</div><div class="countryAuthorityRow">${authorityLogoHtml(c)}<span class="authorityName">${esc(c.authority||'Regulator')}</span><span class="countryOpen">↗</span></div></a>`;}
+  function countrySeoUrl(c){return `type-approval/${String(c.name).toLowerCase().replace(/[’']/g,'').replace(/–/g,'-').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')}.html`}
+  function countryCard(c){const lang=localStorage.getItem(langStore)||'en';return `<a class="countryCard" href="${countrySeoUrl(c)}"><div class="countryCardTop"><span class="countryFlagMini">${countryFlagHtml(c)}</span><span class="regionPill">${esc(countryRegion(c,lang))}</span></div><div class="countryName">${esc(countryName(c,lang))}</div><div class="countryAuthorityRow">${authorityLogoHtml(c)}<span class="authorityName">${esc(c.authority||'Regulator')}</span><span class="countryOpen">↗</span></div></a>`;}
 
   function setupCountries(){
     const grid=$('#countryGrid');if(!grid)return;const search=$('#countrySearch'),more=$('#moreMarketsBtn');let region='All',expanded=false;
