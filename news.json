@@ -1,65 +1,5 @@
 [
   {
-    "id": "reg-egypt-2026-schemes",
-    "slug": "egypt-ntra-type-approval-schemes-2026",
-    "countryCode": "EG",
-    "country": "Egypt",
-    "countrySlug": "egypt",
-    "countryName": {
-      "en": "Egypt",
-      "ar": "مصر",
-      "zh": "埃及"
-    },
-    "authority": "NTRA",
-    "category": {
-      "en": "Type Approval",
-      "ar": "موافقة نوعية",
-      "zh": "型式认证"
-    },
-    "date": "2026-01-01",
-    "author": "AFAQ JOOD Regulatory Intelligence Team",
-    "impact": "high",
-    "products": [
-      "Telecom Equipment",
-      "Wi-Fi & Bluetooth",
-      "Cellular / 4G / 5G",
-      "IoT Devices"
-    ],
-    "tags": [
-      "Egypt",
-      "NTRA",
-      "Type Approval",
-      "2026"
-    ],
-    "title": {
-      "en": "Egypt NTRA publishes updated 2026 Type Approval schemes",
-      "ar": "NTRA مصر تحدّث إجراءات اعتماد النوعية لعام 2026",
-      "zh": "埃及 NTRA 发布2026年更新版型式认证程序"
-    },
-    "summary": {
-      "en": "NTRA currently applies Light, Intermediate and Tight Type Approval schemes and provides 2026 procedure documents and a scheme-determination process.",
-      "ar": "تطبق NTRA حاليًا ثلاثة مسارات لاعتماد النوعية: المبسط والمتوسط والمحكم، مع وثائق إجراءات محدثة لعام 2026 وآلية لتحديد المسار المناسب للمنتج.",
-      "zh": "NTRA 当前采用简化、中等和严格三类型式认证程序，并提供2026年程序文件及产品路径判定机制。"
-    },
-    "body": {
-      "en": "<p>NTRA’s current Type Approval procedure page identifies three schemes: Light, Intermediate and Tight.</p><p>The authority provides 2026 procedure documents and a scheme determination chart/interactive questions to identify the route applicable to a product. The procedure also includes the associated forms.</p><p>Manufacturers should determine the applicable scheme before preparing the final evidence package, because testing and documentation can differ by route.</p>",
-      "ar": "<p>توضح صفحة إجراءات اعتماد النوع الحالية لدى NTRA وجود ثلاثة مسارات: الإجراءات المبسطة والمتوسطة والمحكمة.</p><p>تنشر الهيئة وثائق الإجراءات لعام 2026، إضافة إلى رسم وأسئلة تفاعلية لتحديد المسار المناسب للمنتج، مع النماذج المرتبطة بالإجراء.</p><p>ينبغي تحديد المسار المناسب قبل إعداد حزمة الأدلة النهائية لأن الاختبارات والوثائق قد تختلف حسب المسار.</p>",
-      "zh": "<p>NTRA 当前的型式认证程序页面列出了三种路径：简化、中等和严格程序。</p><p>监管机构提供2026年程序文件，并通过路径判定图和交互式问题确定产品适用的程序，同时提供相关表格和服务信息。</p><p>制造商应在准备最终资料包前确定适用路径，因为不同路径的测试和文件要求可能不同。</p>"
-    },
-    "whatKnow": {
-      "en": "Do not assume one approval route applies to every product. The NTRA scheme must be determined from the product characteristics and applicable country category.",
-      "ar": "لا تفترض أن مسارًا واحدًا ينطبق على جميع المنتجات. يجب تحديد مسار NTRA وفق خصائص المنتج وفئة الدولة المطبقة.",
-      "zh": "不要假设所有产品都适用同一路径。应根据产品特性和适用国家类别确定 NTRA 程序。"
-    },
-    "image": "/assets/news/egypt/regulatory-update.webp",
-    "sourceName": "NTRA — Type Approval Procedure",
-    "sourceUrl": "https://www.tra.gov.eg/en/regulations/type-approval/type-approval-procedure/",
-    "sourceType": "Official Regulatory Authority",
-    "featured": true,
-    "status": "published",
-    "updatedAt": "2026-09-14T00:00:00Z"
-  },
-  {
     "id": "reg-uae-2026-v4",
     "slug": "uae-tdra-type-approval-policy-version-4-effective-2026",
     "status": "published",
@@ -202,5 +142,53 @@
     "sourceUrl": "https://www.arpce.dz/en/faq",
     "sourceType": "Official Regulatory Authority",
     "image": "/assets/news/dz/algeria-arpce-executive-decree-26-97-approval.jpg"
+  },
+  {
+    "id": "reg-egypt-2026-schemes",
+    "slug": "egypt-ntra-type-approval-schemes-2026",
+    "status": "published",
+    "country": "Egypt",
+    "countryCode": "EG",
+    "countryKey": "EG__egypt__17",
+    "countrySlug": "egypt",
+    "countryName": {
+      "en": "Egypt"
+    },
+    "authority": "NTRA",
+    "category": "",
+    "date": "2026-01-01",
+    "publishedAt": "2026-09-14T15:49:01.875Z",
+    "updatedAt": "2026-09-14T15:49:01.875Z",
+    "author": "AFAQ JOOD Regulatory Intelligence Team",
+    "impact": "high",
+    "featured": true,
+    "products": [
+      "Telecom Equipment",
+      "Wi-Fi & Bluetooth",
+      "Cellular / 4G / 5G",
+      "IoT Devices"
+    ],
+    "tags": [
+      "Egypt",
+      "NTRA",
+      "Type Approval",
+      "2026"
+    ],
+    "title": {
+      "en": "Egypt NTRA publishes updated 2026 Type Approval schemes"
+    },
+    "summary": {
+      "en": "NTRA currently applies Light, Intermediate and Tight Type Approval schemes and provides 2026 procedure documents and a scheme-determination process."
+    },
+    "body": {
+      "en": "<p>NTRA’s current Type Approval procedure page identifies three schemes: Light, Intermediate and Tight.</p><p>The authority provides 2026 procedure documents and a scheme determination chart/interactive questions to identify the route applicable to a product. The procedure also includes the associated forms.</p><p>Manufacturers should determine the applicable scheme before preparing the final evidence package, because testing and documentation can differ by route.</p>"
+    },
+    "whatKnow": {
+      "en": "<p>Do not assume one approval route applies to every product. The NTRA scheme must be determined from the product characteristics and applicable country category.</p>"
+    },
+    "sourceName": "NTRA — Type Approval Procedure",
+    "sourceUrl": "https://www.tra.gov.eg/en/regulations/type-approval/type-approval-procedure/",
+    "sourceType": "Official Regulatory Authority",
+    "image": "/assets/news/eg/egypt-ntra-type-approval-schemes-2026.jpg"
   }
 ]
