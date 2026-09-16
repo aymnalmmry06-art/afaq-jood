@@ -293,7 +293,7 @@
     const meta=document.querySelector('meta[data-meta-i18n]');if(meta)meta.setAttribute('content',seoDescription);
     const canonical=document.querySelector('link[rel="canonical"]');if(canonical)canonical.href=seoUrl;
     const setHeadMeta=(property,content)=>{let tag=document.querySelector(`meta[property="${property}"]`);if(!tag){tag=document.createElement('meta');tag.setAttribute('property',property);document.head.appendChild(tag)}tag.setAttribute('content',content)};
-    setHeadMeta('og:title',seoTitle);setHeadMeta('og:description',seoDescription);setHeadMeta('og:url',seoUrl);
+    setHeadMeta('og:title',seoTitle);setHeadMeta('og:description',seoDescription);setHeadMeta('og:url',seoUrl);setHeadMeta('og:image','https://afaqjood.com/favicon.png');
     let schema=$('#countryPageSchema');if(!schema){schema=document.createElement('script');schema.id='countryPageSchema';schema.type='application/ld+json';document.head.appendChild(schema)}schema.textContent=JSON.stringify({'@context':'https://schema.org','@type':'WebPage','name':seoTitle,'description':seoDescription,'url':seoUrl,'about':{'@type':'Service','name':`${name} Type Approval`,'provider':{'@type':'Organization','name':'AFAQ JOOD','url':'https://afaqjood.com/'},'areaServed':{'@type':'Country','name':name}}});
     const products=(c.products||[]).map(x=>`<span class="chip">${esc(productName(x,lang))}</span>`).join('');
     const docs=String(c.documents||'').split(' • ').filter(Boolean).map(x=>`<li>${esc(localizedText(x,lang))}</li>`).join('');
