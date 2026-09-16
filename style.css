@@ -212,6 +212,10 @@ html.darkMode .newsSection .btn.ghost:hover{background:#fff;color:#0a1d3a;border
 .mapTileNotice{position:absolute;left:50%;bottom:14px;transform:translateX(-50%);z-index:700;background:rgba(7,22,45,.88);color:#fff;padding:9px 13px;border-radius:10px;font-size:10px;font-weight:800;box-shadow:0 10px 25px rgba(10,29,58,.18);pointer-events:none;white-space:nowrap;max-width:calc(100% - 28px);overflow:hidden;text-overflow:ellipsis}
 html.darkMode .mapTileNotice{background:rgba(7,22,45,.94);color:#eaf2f8}
 /* V34: final small-screen navbar safety */
+/* Keep the full assessment label visible on 412px-class phones (for example, S22 Ultra) without competing with the logo while the sticky nav is compact. */
+@media (min-width:381px) and (max-width:430px){
+  .siteNav.compact .navTools .navQuote{font-size:8.5px;padding:8px 7px;gap:4px;border-radius:10px}
+}
 @media(max-width:380px){
   .navShell{width:calc(100% - 12px);gap:3px}
   .brandFullLogo{width:104px;height:44px}
