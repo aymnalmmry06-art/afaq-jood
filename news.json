@@ -192,64 +192,182 @@
     "image": "/assets/news/eg/egypt-ntra-type-approval-schemes-2026.jpg"
   },
   {
-    "id": "news-1789405640451",
-    "slug": "saudi-arabia-updates-wireless-regulatory-requirements-for-ict-equipment",
+    "id": "news-1789565459005",
+    "slug": "bahrain-updates-technical-specifications-for-type-approval-version-11",
     "status": "published",
-    "country": "Saudi Arabia",
-    "countryCode": "SA",
-    "countryKey": "SA__saudi-arabia__1",
-    "countrySlug": "saudi-arabia",
+    "country": "Bahrain",
+    "countryCode": "BH",
+    "countryKey": "BH__bahrain__5",
+    "countrySlug": "bahrain",
     "countryName": {
-      "en": "Saudi Arabia"
+      "en": "Bahrain"
     },
-    "authority": "CST",
+    "authority": "TRA",
     "category": "Regulatory Update",
-    "date": "2026-09-14",
-    "publishedAt": "2026-09-14T17:07:20.452Z",
-    "updatedAt": "2026-09-14T17:07:20.453Z",
+    "date": "2026-07-30",
+    "publishedAt": "2026-09-16T14:09:55.509Z",
+    "updatedAt": "2026-09-16T14:09:55.509Z",
     "author": "AFAQ JOOD Regulatory Intelligence Team",
     "impact": "high",
-    "featured": true,
+    "featured": false,
     "products": [
-      "Wireless routers and networking equipment",
-      "cellular and mobile devices",
-      "IoT devices",
-      "short-range wireless equipment",
+      "elecommunications equipment",
+      "terminal devices",
+      "short-range wireless devices",
       "RF equipment",
-      "connected ICT devices",
-      "Bluetooth and Wi-Fi-enabled products",
-      "radio communication equipment",
-      "and other telecommunications equipment subject to Saudi regulatory requirements"
+      "Wi-Fi and Bluetooth devices",
+      "IoT equipment",
+      "wireless communication equipment",
+      "and other products subject to Bahrain Type Approval requirements."
     ],
     "tags": [
-      "approval",
-      "CST Saudi Arabia",
-      "SASO Saudi Arabia",
-      "Saudi Arabia ICT regulations",
-      "Saudi Arabia RF equipment approval",
-      "wireless device approval Saudi Arabia",
-      "telecommunications regulatory compliance",
-      "Saudi market access",
-      "IoT approval Saudi Arabia",
-      "radio equipment approval Saudi Arabia",
-      "Saudi Arabia regulatory requirements"
+      "Bahrain Type Approval",
+      "Bahrain TRA",
+      "Bahrain Type Approval Version 1.1",
+      "Bahrain telecom equipment approval",
+      "Bahrain wireless equipment approval",
+      "Bahrain RF approval",
+      "Bahrain technical specifications",
+      "Bahrain regulatory compliance",
+      "Bahrain short range devices",
+      "Bahrain ICT equipment",
+      "Bahrain market access",
+      "Bahrain Type Approval requirements"
     ],
     "title": {
-      "en": "Saudi Arabia Updates Wireless Regulatory Requirements for ICT Equipment"
+      "en": "Bahrain Updates Technical Specifications for Type Approval – Version 1.1"
     },
     "summary": {
-      "en": "Saudi Arabia has introduced important regulatory changes affecting wireless ICT equipment, with updated conformity and market-access requirements for manufacturers and importers of connected and radio-enabled devices"
+      "en": "Bahrain's Telecommunications Regulatory Authority has released Version 1.1 of its Technical Specifications Requirements for Type Approval, introducing amendments to the technical requirements and specifications applicable to telecommunications and wireless equipment."
     },
     "body": {
-      "en": "<p>Saudi Arabia has introduced important regulatory changes affecting wireless Information and Communication Technology (ICT) equipment, reinforcing the requirements that manufacturers and importers need to consider when placing connected and radio-enabled products on the Saudi market.</p><p>The regulatory framework involves both the Communications, Space &amp; Technology Commission (CST) and the Saudi Standards, Metrology and Quality Organization (SASO), with requirements applying according to the type and characteristics of the equipment.</p><p>### What Products May Be Affected?</p><p>The requirements are particularly relevant to products that incorporate wireless or radio functionality, including:</p><p>* Wireless networking equipment and routers<br>* Cellular and mobile devices<br>* Internet of Things (IoT) equipment<br>* Short-range wireless devices<br>* Radio-frequency (RF) equipment<br>* Connected ICT products<br>* Other devices operating through regulated radio technologies</p><p>Manufacturers should identify the applicable technical and conformity requirements before shipping products to Saudi Arabia.</p><p>### Regulatory Compliance and Market Access</p><p>For international manufacturers, understanding the relationship between technical regulations, conformity assessment, product certification and telecommunications requirements is an important part of the Saudi market-entry process.</p><p>Depending on the product category, manufacturers may need to complete applicable conformity procedures and ensure that the equipment meets the relevant Saudi technical requirements before importation and commercialization.</p><p>The CST continues to play a central role in regulating telecommunications and ICT equipment, including requirements related to telecommunications devices, radio equipment and spectrum use.</p><p>### What Manufacturers Should Consider</p><p>Companies planning to introduce wireless products into Saudi Arabia should review their products before shipment and determine:</p><p>* The applicable Saudi technical requirements<br>* Whether the product falls within telecommunications or radio equipment regulations<br>* Applicable conformity assessment requirements<br>* Required technical documentation and test reports<br>* Radio-frequency and spectrum-related requirements, where applicable<br>* Import and market-access requirements</p><p>Early regulatory assessment can help manufacturers avoid unnecessary delays during the approval and import process.</p><p>### AFAQ JOOD Regulatory Support</p><p>AFAQ JOOD supports international manufacturers, exporters and technology companies with Type Approval and regulatory compliance coordination across selected markets in the Middle East and Africa.</p><p>Our team helps clients understand applicable requirements, organize technical documentation and coordinate regulatory procedures with the relevant authorities and local stakeholders.</p><p>For companies planning to enter the Saudi Arabian market, obtaining a clear understanding of the applicable regulatory pathway at an early stage can help make the market-access process more structured and efficient.</p><p>**Regulatory requirements may vary depending on the product type, technology, frequency bands and applicable Saudi regulations. Manufacturers should verify the requirements applicable to their specific product before market entry.**<br></p>"
+      "en": "<p>Bahrain Updates Technical Specifications for Type Approval – Version 1.1</p><p>The Telecommunications Regulatory Authority (TRA) of the Kingdom of Bahrain has released Version 1.1 of its Technical Specifications Requirements for Type Approval.</p><p>The updated document was released on July 30, 2026, and replaces the first edition published in February 2024. According to the TRA, the revision introduces amendments to the technical requirements and specifications applicable to Type Approval in Bahrain.</p><p>What Has Changed?</p><p>Version 1.1 establishes the current technical reference for assessing telecommunications and wireless equipment intended for the Bahraini market.</p><p>The update affects the technical specifications and requirements used when evaluating equipment for Type Approval. Manufacturers and regulatory teams should therefore review the updated document when preparing new applications or assessing existing compliance documentation.</p><p>The TRA has not publicly detailed every individual technical amendment in its announcement. Manufacturers should therefore review the full Version 1.1 document rather than assuming that requirements remain identical to the previous edition.</p><p>Products Covered</p><p>The Type Approval framework applies to telecommunications and wireless equipment covered by Bahrain's regulatory requirements, including:</p><p>Telecommunications equipment</p><p>Terminal devices</p><p>Short-range wireless devices</p><p>RF equipment</p><p>Wireless networking equipment</p><p>Wi-Fi and Bluetooth-enabled products</p><p>IoT and connected devices</p><p>Other radio and telecommunications equipment subject to Type Approval</p><p>What Manufacturers Need to Know</p><p>Manufacturers and exporters planning to introduce telecommunications or wireless equipment into Bahrain should review Version 1.1 before submitting new Type Approval applications.</p><p>Companies should:</p><p>Review the current technical specifications applicable to their product.</p><p>Check whether existing test reports continue to correspond to the applicable requirements.</p><p>Review RF, EMC and safety documentation where applicable.</p><p>Ensure that technical specifications and product configurations are consistent with the submitted documentation.</p><p>Update compliance references that rely on the superseded 2024 edition.</p><p>Assess existing approved products when preparing renewals, modifications or new product variants.</p><p>Bahrain Type Approval Process</p><p>The TRA requires telecommunications equipment imported into Bahrain to obtain Type Approval before being made available on the local market.</p><p>Applications are submitted through the TRA's eTRA portal. The published requirements include a Declaration of Conformity, technical datasheet and, where applicable, EMC, safety and radio test reports, together with other supporting technical documentation.</p><p>The TRA also requires applicants for Type Approval to be locally commercially registered companies or to follow the applicable local representative requirements.</p><p>Market Access Considerations</p><p>For international manufacturers, the release of Version 1.1 means that compliance assessments for the Bahraini market should be based on the current technical specifications.</p><p>Manufacturers should review their technical files before shipment and confirm that the applicable standards, test reports and product specifications remain aligned with Bahrain's current regulatory requirements.</p><p>AFAQ JOOD Regulatory Support</p><p>AFAQ JOOD supports international manufacturers, exporters and technology companies with Type Approval and regulatory compliance coordination across selected markets in the Middle East and Africa.</p><p>Our team assists clients in identifying applicable requirements, organizing technical documentation and coordinating regulatory procedures with relevant authorities and local stakeholders.</p><p>Manufacturers planning to introduce telecommunications, wireless, RF or ICT equipment into Bahrain should assess the applicable Type Approval requirements before market entry.</p><p>Regulatory requirements may vary according to the product category, technology and applicable technical specifications. Manufacturers should verify the requirements applicable to their specific equipment before submitting an application or shipping products to Bahrain.<br></p>"
     },
     "whatKnow": {
-      "en": "<p>Manufacturers planning to introduce wireless and ICT equipment into the Saudi Arabian market should assess the applicable regulatory requirements before shipment.</p><p>The requirements may vary depending on the product category, wireless technologies, frequency bands, intended use and applicable Saudi technical regulations. Manufacturers should therefore:</p><p>* Identify the applicable regulatory and technical requirements for the product.<br>* Confirm whether the equipment falls under telecommunications, radio or other regulated product categories.<br>* Prepare the required technical documentation and relevant test reports.<br>* Verify conformity assessment and certification requirements before importation.<br>* Review applicable radio-frequency and spectrum requirements for wireless products.<br>* Ensure that product information and documentation are consistent across the regulatory submission.<br>* Confirm the applicable market-access procedures before commercializing the product in Saudi Arabia.</p><p>Early regulatory assessment can help manufacturers identify potential compliance issues and reduce delays during the market-entry process.<br></p>"
+      "en": "<p>Manufacturers and exporters supplying telecommunications and wireless equipment to Bahrain should review Version 1.1 of the Type Approval Technical Specifications and verify that their products, technical documentation and applicable test reports remain aligned with the current requirements.</p><p>Companies preparing new Type Approval applications should use Version 1.1 as the current technical reference and review any existing compliance documentation that refers to the previous edition.</p>"
     },
-    "sourceName": "Communications, Space & Technology Commission (CST)",
-    "sourceUrl": "https://www.cst.gov.sa/regulations-and-licenses/regulations/Document-1582?utm_source=chatgpt.com",
+    "sourceName": "Telecommunications Regulatory Authority (TRA) – Kingdom of Bahrain",
+    "sourceUrl": "https://www.tra.org.bh/en/article/technical-specifications-requirements-for-type-approval",
     "sourceType": "Official Regulatory Authority",
-    "image": "/assets/news/sa/saudi-arabia-updates-wireless-regulatory-requirements-for-ict-equipment.jpg"
+    "image": "/assets/news/bh/bahrain-updates-technical-specifications-for-type-approval-version-11.jpg"
+  },
+  {
+    "id": "news-1789565067613",
+    "slug": "oman-introduces-self-declaration-of-conformity-for-selected-telecom-devices",
+    "status": "published",
+    "country": "Oman",
+    "countryCode": "OM",
+    "countryKey": "OM__oman__4",
+    "countrySlug": "oman",
+    "countryName": {
+      "en": "Oman"
+    },
+    "authority": "TRA",
+    "category": "Regulatory Update",
+    "date": "2026-02-17",
+    "publishedAt": "2026-09-16T14:09:55.509Z",
+    "updatedAt": "2026-09-16T14:09:55.509Z",
+    "author": "AFAQ JOOD Regulatory Intelligence Team",
+    "impact": "high",
+    "featured": false,
+    "products": [
+      "Wireless keyboards",
+      "wireless mice",
+      "printers",
+      "speakers",
+      "smart pens",
+      "wireless chargers",
+      "unmanaged switches",
+      "smart watches",
+      "hearing-assistance devices and projectors."
+    ],
+    "tags": [
+      "Oman Type Approval",
+      "Oman Self-Declaration of Conformity",
+      "Oman TRA",
+      "Oman telecommunications approval",
+      "Oman telecom equipment approval",
+      "Oman product compliance",
+      "Oman wireless equipment",
+      "Oman ICT equipment",
+      "Oman regulatory compliance",
+      "Oman market access"
+    ],
+    "title": {
+      "en": "Oman Introduces Self-Declaration of Conformity for Selected Telecom Devices"
+    },
+    "summary": {
+      "en": "Oman's Telecommunications Regulatory Authority has introduced a Self-Declaration of Conformity service within its Type Approval system for selected categories of telecommunications and ICT devices."
+    },
+    "body": {
+      "en": "<p>Oman Introduces Self-Declaration of Conformity for Selected Telecom Devices</p><p>Oman's Telecommunications Regulatory Authority (TRA) has introduced a Self-Declaration of Conformity route within its Type Approval framework for selected telecommunications and ICT products.</p><p>The new route provides eligible applicants with an alternative compliance procedure based on a declaration confirming that the equipment meets the applicable technical and regulatory requirements.</p><p>What Manufacturers Need to Know</p><p>The Self-Declaration route is not applicable to all telecommunications equipment. It is intended for specific product categories, and manufacturers should confirm their product's eligibility before selecting this pathway.</p><p>Products identified as eligible include certain:</p><p>Wireless keyboards and mice<br>Printers<br>Speakers<br>Smart pens<br>Wireless chargers<br>Unmanaged switches<br>Smart watches<br>Hearing-assistance devices<br>Projectors</p><p>Manufacturers should ensure that the product complies with the applicable technical requirements and that the information provided in the Declaration of Conformity is accurate and supported by appropriate technical documentation.</p><p>Type Approval in Oman</p><p>Oman's TRA operates an electronic Type Approval system for telecommunications and ICT equipment.</p><p>The Authority's published requirements include a Declaration of Conformity, equipment technical specifications and, where applicable, RF, EMC and safety test reports from appropriately accredited laboratories.</p><p>The Type Approval system also supports related regulatory procedures, including import authorization and customs release.</p><p>What This Means for Manufacturers</p><p>For international manufacturers preparing to enter the Omani market, the introduction of a Self-Declaration route for selected products provides an additional compliance pathway.</p><p>However, manufacturers should not assume that a product qualifies automatically. Eligibility depends on the product category and the applicable regulatory requirements.</p><p>Before shipment, manufacturers should:</p><p>Identify the applicable Type Approval pathway.<br>Confirm whether the product is eligible for Self-Declaration.<br>Review the applicable technical requirements.<br>Prepare the required Declaration of Conformity and supporting documentation.<br>Verify that the product configuration matches the submitted documentation.<br>Confirm any applicable import and market-access requirements.</p><p>Early regulatory assessment can help manufacturers identify the correct approval pathway and avoid unnecessary delays during market entry.</p><p>AFAQ JOOD Regulatory Support</p><p>AFAQ JOOD supports international manufacturers, exporters and technology companies with Type Approval and regulatory compliance coordination across selected markets in the Middle East and Africa.</p><p>Our team assists clients in identifying applicable regulatory requirements, organizing technical documentation and coordinating approval procedures with relevant authorities and local stakeholders.</p><p>Manufacturers planning to introduce wireless, telecommunications or ICT products into Oman can contact AFAQ JOOD for regulatory coordination and market-access support.<br></p>"
+    },
+    "whatKnow": {
+      "en": "<p>Manufacturers of eligible products can use the Self-Declaration of Conformity service as part of Oman's Type Approval process. The option is limited to specific product categories, so manufacturers should confirm eligibility before relying on the self-declaration route.</p>"
+    },
+    "sourceName": "Telecommunications Regulatory Authority – Oman (TRA)",
+    "sourceUrl": "https://tra.gov.om/spectrum/type-approval/device-regulations",
+    "sourceType": "Official Regulatory Authority",
+    "image": "/assets/news/om/oman-introduces-self-declaration-of-conformity-for-selected-telecom-devices.jpg"
+  },
+  {
+    "id": "news-1789414949568",
+    "slug": "kuwait-opens-compliance-window-for-unlicensed-wireless-devices",
+    "status": "published",
+    "country": "Kuwait",
+    "countryCode": "KW",
+    "countryKey": "KW__kuwait__3",
+    "countrySlug": "kuwait",
+    "countryName": {
+      "en": "Kuwait"
+    },
+    "authority": "CITRA",
+    "category": "Regulatory Update",
+    "date": "2026-06-08",
+    "publishedAt": "2026-09-16T14:09:55.509Z",
+    "updatedAt": "2026-09-16T14:09:55.509Z",
+    "author": "AFAQ JOOD Regulatory Intelligence Team",
+    "impact": "high",
+    "featured": false,
+    "products": [
+      "Wireless communication equipment",
+      "radio devices",
+      "wireless networking equipment",
+      "RF equipment",
+      "telecommunications devices",
+      "and other wireless equipment subject to CITRA regulatory requirements"
+    ],
+    "tags": [
+      "Kuwait Type Approval",
+      "Kuwait wireless equipment approval",
+      "Kuwait telecom equipment approval",
+      "CITRA Kuwait",
+      "Kuwait RF equipment approval",
+      "Kuwait wireless regulations",
+      "Kuwait telecommunications regulations",
+      "Kuwait regulatory compliance",
+      "Kuwait market access",
+      "wireless device approval Kuwait",
+      "telecommunications equipment Kuwait",
+      "CITRA Type Approval",
+      "Kuwait radio equipment approval"
+    ],
+    "title": {
+      "en": "Kuwait Opens Compliance Window for Unlicensed Wireless Devices"
+    },
+    "summary": {
+      "en": "Kuwait's Communications and Information Technology Regulatory Authority (CITRA) has opened a three-month compliance window for unlicensed wireless devices circulating in the country, allowing concerned parties to regularize their status without penalties during the announced period"
+    },
+    "body": {
+      "en": "<p>Kuwait's Communications and Information Technology Regulatory Authority (CITRA) has announced a three-month compliance window for unlicensed wireless devices currently circulating in the country.</p><p>The announcement, issued on June 8, 2026, provides an opportunity for concerned parties to regularize the status of unlicensed wireless equipment during the specified period without penalties when the equipment is surrendered within the announced timeframe.</p><p>### Why This Matters for Manufacturers and Suppliers</p><p>The announcement highlights the importance of ensuring that wireless and telecommunications equipment entering the Kuwaiti market complies with the country's regulatory framework.</p><p>Manufacturers, suppliers and importers should assess the regulatory status of their products before shipment and confirm whether the equipment requires Type Approval or another authorization from CITRA.</p><p>### Products That May Be Affected</p><p>The regulatory requirements may be relevant to a wide range of wireless and telecommunications products, including:</p><p>* Wireless communication equipment<br>* Wi-Fi and networking equipment<br>* RF equipment<br>* Radio communication devices<br>* Wireless IoT products<br>* Short-range wireless devices<br>* Telecommunications terminal equipment<br>* Other equipment operating through regulated wireless technologies</p><p>The specific requirements depend on the product type, technical characteristics, wireless technologies and applicable regulatory requirements.</p><p>### Type Approval Requirements in Kuwait</p><p>CITRA provides a Type Approval service for telecommunications devices to ensure their compatibility with approved technical specifications.</p><p>The authority's published requirements include technical specifications of the equipment, authorization from the manufacturer, applicable Declaration of Conformity documentation and laboratory reports from approved laboratories.</p><p>CITRA's Type Approval regulations also cover wired and wireless communication devices and establish procedures for reviewing technical documentation and verifying testing conducted by recognized and accredited laboratories.</p><p>### What Manufacturers Should Consider</p><p>Manufacturers and exporters planning to enter the Kuwaiti market should:</p><p>* Identify the applicable CITRA requirements before shipment.<br>* Determine whether Type Approval is required for the product.<br>* Verify the technical specifications and applicable standards.<br>* Prepare the required Declaration of Conformity and supporting documents.<br>* Ensure that laboratory test reports meet the applicable requirements.<br>* Confirm that the product configuration matches the submitted technical documentation.<br>* Coordinate the regulatory process before importing or commercializing the equipment.</p><p>Early regulatory assessment can help companies identify compliance requirements and reduce potential delays during the market-entry process.</p><p>### AFAQ JOOD Regulatory Support</p><p>AFAQ JOOD supports international manufacturers, exporters and technology companies with Type Approval and regulatory compliance coordination across selected markets in the Middle East and Africa.</p><p>Our team assists clients in understanding applicable requirements, organizing technical documentation and coordinating regulatory procedures with relevant authorities and local stakeholders.</p><p>Manufacturers planning to introduce wireless or telecommunications equipment into Kuwait should assess the applicable regulatory pathway before shipment to help ensure a structured market-entry process.</p><p>Regulatory requirements may vary according to the product category, technology and intended use. Manufacturers should verify the requirements applicable to their specific equipment before entering the Kuwaiti market.<br></p>"
+    },
+    "whatKnow": {
+      "en": "<p>Manufacturers, suppliers and importers of wireless equipment intended for the Kuwaiti market should verify that their products comply with the applicable CITRA requirements before importation, distribution or use.</p><p>Companies should confirm whether their equipment requires Type Approval or other regulatory authorization and ensure that the relevant technical documentation, conformity information and laboratory reports are available where required.</p><p>CITRA's current Type Approval service covers telecommunications devices and requires technical specifications, manufacturer authorization, applicable Declaration of Conformity documentation and laboratory reports from approved laboratories</p>"
+    },
+    "sourceName": "Communication and Information Technology Regulatory Authority (CITRA) – Kuwait",
+    "sourceUrl": "https://www.citra.gov.kw/sites/ar/Pages/DecisionsDetails.aspx?id=87&",
+    "sourceType": "Official Regulatory Authority",
+    "image": "/assets/news/kw/kuwait-opens-compliance-window-for-unlicensed-wireless-devices.jpg"
   },
   {
     "id": "news-1789413783935",
@@ -265,8 +383,8 @@
     "authority": "CRA",
     "category": "Regulatory Update",
     "date": "2026-02-08",
-    "publishedAt": "2026-09-14T19:42:38.105Z",
-    "updatedAt": "2026-09-14T19:42:38.105Z",
+    "publishedAt": "2026-09-16T14:09:55.509Z",
+    "updatedAt": "2026-09-16T14:09:55.509Z",
     "author": "AFAQ JOOD Regulatory Intelligence Team",
     "impact": "high",
     "featured": false,
@@ -310,67 +428,424 @@
       "en": "<p>Manufacturers of wireless and radio-enabled products should review the applicable frequency and regulatory requirements before introducing their products into the Qatari market.</p><p>The updated frequency allocation framework is particularly relevant to products that operate on regulated radio frequencies. Manufacturers should verify the applicable frequency bands, technical requirements and regulatory procedures for their specific equipment.</p><p>For telecommunications and radio terminal equipment, Qatar's Communications Regulatory Authority provides regulatory procedures for Type Approval through its e-Spectrum platform. Manufacturers and importers should ensure that the required technical documentation and conformity information are prepared before market entry</p>"
     },
     "sourceName": "Communications Regulatory Authority (CRA) – Qatar",
-    "sourceUrl": "https://www.cra.gov.qa/en/media/press-releases?utm_source=chatgpt.com",
+    "sourceUrl": "https://www.cra.gov.qa/en/media/press-releases",
     "sourceType": "Official Regulatory Authority",
     "image": "/assets/news/qa/qatar-updates-its-national-frequency-allocation-plan-for-wireless-and-radio-equipment.jpg"
   },
   {
-    "id": "news-1789414949568",
-    "slug": "kuwait-opens-compliance-window-for-unlicensed-wireless-devices",
+    "id": "news-1789405640451",
+    "slug": "saudi-arabia-updates-wireless-regulatory-requirements-for-ict-equipment",
     "status": "published",
-    "country": "Kuwait",
-    "countryCode": "KW",
-    "countryKey": "KW__kuwait__3",
-    "countrySlug": "kuwait",
+    "country": "Saudi Arabia",
+    "countryCode": "SA",
+    "countryKey": "SA__saudi-arabia__1",
+    "countrySlug": "saudi-arabia",
     "countryName": {
-      "en": "Kuwait"
+      "en": "Saudi Arabia"
     },
-    "authority": "CITRA",
+    "authority": "CST",
     "category": "Regulatory Update",
-    "date": "2026-06-08",
-    "publishedAt": "2026-09-14T19:42:38.105Z",
-    "updatedAt": "2026-09-14T19:42:38.105Z",
+    "date": "2026-09-14",
+    "publishedAt": "2026-09-16T14:09:55.509Z",
+    "updatedAt": "2026-09-16T14:09:55.509Z",
+    "author": "AFAQ JOOD Regulatory Intelligence Team",
+    "impact": "high",
+    "featured": true,
+    "products": [
+      "Wireless routers and networking equipment",
+      "cellular and mobile devices",
+      "IoT devices",
+      "short-range wireless equipment",
+      "RF equipment",
+      "connected ICT devices",
+      "Bluetooth and Wi-Fi-enabled products",
+      "radio communication equipment",
+      "and other telecommunications equipment subject to Saudi regulatory requirements"
+    ],
+    "tags": [
+      "approval",
+      "CST Saudi Arabia",
+      "SASO Saudi Arabia",
+      "Saudi Arabia ICT regulations",
+      "Saudi Arabia RF equipment approval",
+      "wireless device approval Saudi Arabia",
+      "telecommunications regulatory compliance",
+      "Saudi market access",
+      "IoT approval Saudi Arabia",
+      "radio equipment approval Saudi Arabia",
+      "Saudi Arabia regulatory requirements"
+    ],
+    "title": {
+      "en": "Saudi Arabia Updates Wireless Regulatory Requirements for ICT Equipment"
+    },
+    "summary": {
+      "en": "Saudi Arabia has introduced important regulatory changes affecting wireless ICT equipment, with updated conformity and market-access requirements for manufacturers and importers of connected and radio-enabled devices"
+    },
+    "body": {
+      "en": "<p>Saudi Arabia has introduced important regulatory changes affecting wireless Information and Communication Technology (ICT) equipment, reinforcing the requirements that manufacturers and importers need to consider when placing connected and radio-enabled products on the Saudi market.</p><p>The regulatory framework involves both the Communications, Space &amp;amp; Technology Commission (CST) and the Saudi Standards, Metrology and Quality Organization (SASO), with requirements applying according to the type and characteristics of the equipment.</p><p>### What Products May Be Affected?</p><p>The requirements are particularly relevant to products that incorporate wireless or radio functionality, including:</p><p>* Wireless networking equipment and routers<br>* Cellular and mobile devices<br>* Internet of Things (IoT) equipment<br>* Short-range wireless devices<br>* Radio-frequency (RF) equipment<br>* Connected ICT products<br>* Other devices operating through regulated radio technologies</p><p>Manufacturers should identify the applicable technical and conformity requirements before shipping products to Saudi Arabia.</p><p>### Regulatory Compliance and Market Access</p><p>For international manufacturers, understanding the relationship between technical regulations, conformity assessment, product certification and telecommunications requirements is an important part of the Saudi market-entry process.</p><p>Depending on the product category, manufacturers may need to complete applicable conformity procedures and ensure that the equipment meets the relevant Saudi technical requirements before importation and commercialization.</p><p>The CST continues to play a central role in regulating telecommunications and ICT equipment, including requirements related to telecommunications devices, radio equipment and spectrum use.</p><p>### What Manufacturers Should Consider</p><p>Companies planning to introduce wireless products into Saudi Arabia should review their products before shipment and determine:</p><p>* The applicable Saudi technical requirements<br>* Whether the product falls within telecommunications or radio equipment regulations<br>* Applicable conformity assessment requirements<br>* Required technical documentation and test reports<br>* Radio-frequency and spectrum-related requirements, where applicable<br>* Import and market-access requirements</p><p>Early regulatory assessment can help manufacturers avoid unnecessary delays during the approval and import process.</p><p>### AFAQ JOOD Regulatory Support</p><p>AFAQ JOOD supports international manufacturers, exporters and technology companies with Type Approval and regulatory compliance coordination across selected markets in the Middle East and Africa.</p><p>Our team helps clients understand applicable requirements, organize technical documentation and coordinate regulatory procedures with the relevant authorities and local stakeholders.</p><p>For companies planning to enter the Saudi Arabian market, obtaining a clear understanding of the applicable regulatory pathway at an early stage can help make the market-access process more structured and efficient.</p><p>**Regulatory requirements may vary depending on the product type, technology, frequency bands and applicable Saudi regulations. Manufacturers should verify the requirements applicable to their specific product before market entry.**<br></p>"
+    },
+    "whatKnow": {
+      "en": "<p>Manufacturers planning to introduce wireless and ICT equipment into the Saudi Arabian market should assess the applicable regulatory requirements before shipment.</p><p>The requirements may vary depending on the product category, wireless technologies, frequency bands, intended use and applicable Saudi technical regulations. Manufacturers should therefore:</p><p>* Identify the applicable regulatory and technical requirements for the product.<br>* Confirm whether the equipment falls under telecommunications, radio or other regulated product categories.<br>* Prepare the required technical documentation and relevant test reports.<br>* Verify conformity assessment and certification requirements before importation.<br>* Review applicable radio-frequency and spectrum requirements for wireless products.<br>* Ensure that product information and documentation are consistent across the regulatory submission.<br>* Confirm the applicable market-access procedures before commercializing the product in Saudi Arabia.</p><p>Early regulatory assessment can help manufacturers identify potential compliance issues and reduce delays during the market-entry process.<br></p>"
+    },
+    "sourceName": "Communications, Space & Technology Commission (CST)",
+    "sourceUrl": "https://www.cst.gov.sa/regulations-and-licenses/regulations/Document-1582",
+    "sourceType": "Official Regulatory Authority",
+    "image": "/assets/news/sa/saudi-arabia-updates-wireless-regulatory-requirements-for-ict-equipment.jpg"
+  },
+  {
+    "id": "news-1789566007566",
+    "slug": "yemen-updates-requirements-for-telecommunications-equipment-import-and-type-approval",
+    "status": "published",
+    "country": "Yemen – Sana'a",
+    "countryCode": "YE",
+    "countryKey": "YE__yemen-sanaa__13",
+    "countrySlug": "yemen-sanaa",
+    "countryName": {
+      "en": "Yemen – Sana'a"
+    },
+    "authority": "MTIT",
+    "category": "Regulatory Update",
+    "date": "2026-09-16",
+    "publishedAt": "2026-09-16T14:09:55.509Z",
+    "updatedAt": "2026-09-16T14:09:55.509Z",
     "author": "AFAQ JOOD Regulatory Intelligence Team",
     "impact": "high",
     "featured": false,
     "products": [
-      "Wireless communication equipment",
-      "radio devices",
-      "wireless networking equipment",
+      "Telecommunications equipment",
+      "wireless devices",
       "RF equipment",
-      "telecommunications devices",
-      "and other wireless equipment subject to CITRA regulatory requirements"
+      "Wi-Fi and Bluetooth devices",
+      "cellular equipment",
+      "IoT devices",
+      "satellite communication equipment",
+      "networking equipment",
+      "radio equipment and other regulated telecommunications products"
     ],
     "tags": [
-      "Kuwait Type Approval",
-      "Kuwait wireless equipment approval",
-      "Kuwait telecom equipment approval",
-      "CITRA Kuwait",
-      "Kuwait RF equipment approval",
-      "Kuwait wireless regulations",
-      "Kuwait telecommunications regulations",
-      "Kuwait regulatory compliance",
-      "Kuwait market access",
-      "wireless device approval Kuwait",
-      "telecommunications equipment Kuwait",
-      "CITRA Type Approval",
-      "Kuwait radio equipment approval"
+      "Yemen Type Approval",
+      "Yemen telecommunications approval",
+      "Sana'a Type Approval",
+      "Yemen wireless equipment approval",
+      "Yemen RF approval",
+      "Yemen telecom equipment",
+      "Yemen telecommunications regulations",
+      "Yemen regulatory compliance",
+      "Yemen ICT equipment",
+      "Yemen market access",
+      "Yemen Type Approval requirements",
+      "Yemen equipment import approval",
+      "Yemen Ministry of Telecommunications"
     ],
     "title": {
-      "en": "Kuwait Opens Compliance Window for Unlicensed Wireless Devices"
+      "en": "Yemen Updates Requirements for Telecommunications Equipment Import and Type Approval"
     },
     "summary": {
-      "en": "Kuwait's Communications and Information Technology Regulatory Authority (CITRA) has opened a three-month compliance window for unlicensed wireless devices circulating in the country, allowing concerned parties to regularize their status without penalties during the announced period"
+      "en": "Yemen's Ministry of Telecommunications and Information Technology has published requirements for the Type Approval and importation of telecommunications equipment, including technical documentation, conformity declarations and supporting test reports."
     },
     "body": {
-      "en": "<p>Kuwait's Communications and Information Technology Regulatory Authority (CITRA) has announced a three-month compliance window for unlicensed wireless devices currently circulating in the country.</p><p>The announcement, issued on June 8, 2026, provides an opportunity for concerned parties to regularize the status of unlicensed wireless equipment during the specified period without penalties when the equipment is surrendered within the announced timeframe.</p><p>### Why This Matters for Manufacturers and Suppliers</p><p>The announcement highlights the importance of ensuring that wireless and telecommunications equipment entering the Kuwaiti market complies with the country's regulatory framework.</p><p>Manufacturers, suppliers and importers should assess the regulatory status of their products before shipment and confirm whether the equipment requires Type Approval or another authorization from CITRA.</p><p>### Products That May Be Affected</p><p>The regulatory requirements may be relevant to a wide range of wireless and telecommunications products, including:</p><p>* Wireless communication equipment<br>* Wi-Fi and networking equipment<br>* RF equipment<br>* Radio communication devices<br>* Wireless IoT products<br>* Short-range wireless devices<br>* Telecommunications terminal equipment<br>* Other equipment operating through regulated wireless technologies</p><p>The specific requirements depend on the product type, technical characteristics, wireless technologies and applicable regulatory requirements.</p><p>### Type Approval Requirements in Kuwait</p><p>CITRA provides a Type Approval service for telecommunications devices to ensure their compatibility with approved technical specifications.</p><p>The authority's published requirements include technical specifications of the equipment, authorization from the manufacturer, applicable Declaration of Conformity documentation and laboratory reports from approved laboratories.</p><p>CITRA's Type Approval regulations also cover wired and wireless communication devices and establish procedures for reviewing technical documentation and verifying testing conducted by recognized and accredited laboratories.</p><p>### What Manufacturers Should Consider</p><p>Manufacturers and exporters planning to enter the Kuwaiti market should:</p><p>* Identify the applicable CITRA requirements before shipment.<br>* Determine whether Type Approval is required for the product.<br>* Verify the technical specifications and applicable standards.<br>* Prepare the required Declaration of Conformity and supporting documents.<br>* Ensure that laboratory test reports meet the applicable requirements.<br>* Confirm that the product configuration matches the submitted technical documentation.<br>* Coordinate the regulatory process before importing or commercializing the equipment.</p><p>Early regulatory assessment can help companies identify compliance requirements and reduce potential delays during the market-entry process.</p><p>### AFAQ JOOD Regulatory Support</p><p>AFAQ JOOD supports international manufacturers, exporters and technology companies with Type Approval and regulatory compliance coordination across selected markets in the Middle East and Africa.</p><p>Our team assists clients in understanding applicable requirements, organizing technical documentation and coordinating regulatory procedures with relevant authorities and local stakeholders.</p><p>Manufacturers planning to introduce wireless or telecommunications equipment into Kuwait should assess the applicable regulatory pathway before shipment to help ensure a structured market-entry process.</p><p>Regulatory requirements may vary according to the product category, technology and intended use. Manufacturers should verify the requirements applicable to their specific equipment before entering the Kuwaiti market.<br></p>"
+      "en": "<p>Yemen Updates Requirements for Telecommunications Equipment Import and Type Approval</p><p>Yemen's Ministry of Telecommunications and Information Technology has published requirements governing the Type Approval and importation of telecommunications equipment.</p><p>The requirements are intended to ensure that telecommunications equipment entering the market meets the applicable technical and regulatory conditions before importation and use.</p><p>Type Approval Requirements</p><p>The Type Approval process requires manufacturers and applicants to provide technical information and supporting documentation for the equipment.</p><p>The published requirements include a description of the equipment, technical specifications, product catalogues, a manufacturer's Declaration of Conformity, relevant test reports, laboratory information, user documentation and product photographs.</p><p>The documentation allows the relevant authority to assess the equipment against the applicable technical requirements.</p><p>Products That May Require Approval</p><p>The requirements may apply to a wide range of telecommunications and wireless products, including:</p><p>Wireless communication equipment</p><p>RF equipment</p><p>Wi-Fi and Bluetooth devices</p><p>Cellular and mobile equipment</p><p>IoT devices</p><p>Networking equipment</p><p>Satellite communication equipment</p><p>Radio communication equipment</p><p>Other telecommunications and ICT equipment subject to applicable requirements</p><p>What Manufacturers Need to Know</p><p>Manufacturers and exporters planning to supply telecommunications equipment to Yemen should determine the applicable regulatory requirements before shipment.</p><p>Technical documentation should accurately identify the product model, manufacturer, technical characteristics and intended operation.</p><p>Manufacturers should also ensure that supporting test reports and conformity documentation correspond to the exact product model being submitted.</p><p>Inconsistent information between the product, technical documentation and test reports can create additional regulatory review requirements and may delay the approval process.</p><p>Import Authorization</p><p>The Type Approval process is an important part of the regulatory pathway for telecommunications equipment entering the market.</p><p>The Ministry's published guidance indicates that equipment should not be imported before the required approvals and authorizations have been obtained.</p><p>Manufacturers and importers should therefore complete the applicable regulatory procedures before shipment and coordinate the required documentation with the local applicant or representative.</p><p>Preparing for Type Approval</p><p>Before submitting an application, manufacturers should prepare a complete technical file containing the applicable specifications, conformity documentation, test reports and product information.</p><p>A structured documentation package can help facilitate the regulatory review and reduce the possibility of requests for additional information.</p><p>AFAQ JOOD Regulatory Support</p><p>AFAQ JOOD supports international manufacturers, exporters and technology companies with Type Approval and regulatory compliance coordination across selected markets in the Middle East and Africa.</p><p>Our team assists clients in identifying applicable requirements, organizing technical documentation and coordinating regulatory procedures with relevant authorities and local stakeholders.</p><p>Manufacturers planning to introduce telecommunications, wireless, RF or ICT equipment into Yemen should assess the applicable regulatory pathway before shipment.</p><p>Regulatory requirements may vary according to the product category, technology and destination. Manufacturers should verify the requirements applicable to their specific equipment before entering the Yemeni market.<br></p>"
     },
     "whatKnow": {
-      "en": "<p>Manufacturers, suppliers and importers of wireless equipment intended for the Kuwaiti market should verify that their products comply with the applicable CITRA requirements before importation, distribution or use.</p><p>Companies should confirm whether their equipment requires Type Approval or other regulatory authorization and ensure that the relevant technical documentation, conformity information and laboratory reports are available where required.</p><p>CITRA's current Type Approval service covers telecommunications devices and requires technical specifications, manufacturer authorization, applicable Declaration of Conformity documentation and laboratory reports from approved laboratories</p>"
+      "en": "<p>Manufacturers and exporters planning to introduce telecommunications equipment into Yemen should review the applicable Type Approval and import requirements before shipment.</p><p>Applicants may need to provide technical specifications, product catalogues, a manufacturer's Declaration of Conformity, relevant test reports, laboratory information, user documentation and product photographs.</p><p>Manufacturers should ensure that the model number, technical specifications and supporting documents are consistent throughout the application package.</p>"
     },
-    "sourceName": "Communication and Information Technology Regulatory Authority (CITRA) – Kuwait",
-    "sourceUrl": "https://www.citra.gov.kw/sites/ar/Pages/DecisionsDetails.aspx?id=87&utm_source=chatgpt.com",
+    "sourceName": "Ministry of Telecommunications and Information Technology – Yemen",
+    "sourceUrl": "https://yafeapedia.interactive-system.com/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D8%AC%D9%87%D8%B2%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA/?",
     "sourceType": "Official Regulatory Authority",
-    "image": "/assets/news/kw/kuwait-opens-compliance-window-for-unlicensed-wireless-devices.jpg"
+    "image": "/assets/news/ye/yemen-updates-requirements-for-telecommunications-equipment-import-and-type-approval.jpg"
+  },
+  {
+    "id": "news-1789566212178",
+    "slug": "yemens-aden-authority-establishes-a-separate-type-approval-pathway",
+    "status": "published",
+    "country": "Yemen – Aden",
+    "countryCode": "YE",
+    "countryKey": "YE__yemen-aden__12",
+    "countrySlug": "yemen-aden",
+    "countryName": {
+      "en": "Yemen – Aden"
+    },
+    "authority": "MTIT",
+    "category": "Regulatory Update",
+    "date": "2026-09-16",
+    "publishedAt": "2026-09-16T14:09:55.510Z",
+    "updatedAt": "2026-09-16T14:09:55.510Z",
+    "author": "AFAQ JOOD Regulatory Intelligence Team",
+    "impact": "high",
+    "featured": false,
+    "products": [
+      "Telecommunications equipment",
+      "wireless devices",
+      "RF equipment",
+      "Wi-Fi and Bluetooth devices",
+      "cellular equipment",
+      "IoT devices",
+      "satellite communication equipment",
+      "networking equipment",
+      "radio equipment and other regulated telecommunications products"
+    ],
+    "tags": [
+      "Yemen Type Approval",
+      "Aden Type Approval",
+      "Yemen Aden Type Approval",
+      "Yemen telecommunications approval",
+      "Aden telecom equipment approval",
+      "Yemen wireless equipment approval",
+      "Yemen RF approval",
+      "Yemen regulatory compliance",
+      "Yemen telecommunications regulations",
+      "Aden telecommunications",
+      "Yemen market access",
+      "Yemen Type Approval certificate"
+    ],
+    "title": {
+      "en": "Yemen’s Aden Authority Establishes a Separate Type Approval Pathway"
+    },
+    "summary": {
+      "en": "Yemen's telecommunications regulatory framework now includes a separate Type Approval pathway administered from Aden for telecommunications and wireless equipment intended for Aden-controlled areas."
+    },
+    "body": {
+      "en": "<p>Yemen’s Aden Authority Establishes a Separate Type Approval Pathway</p><p>Yemen’s telecommunications regulatory framework has developed a separate Type Approval pathway administered from Aden for telecommunications and wireless equipment intended for areas under the Aden-based authority’s administration.</p><p>The development creates a distinct regulatory route for manufacturers and importers supplying telecommunications equipment through southern entry points and into Aden-administered areas.</p><p>A Separate Certification Pathway</p><p>The Type Approval framework in Yemen is currently administered through separate authorities based in Sana’a and Aden.</p><p>The Aden-based Ministry of Telecommunications and Information Technology provides services for telecommunications equipment, including import permits and Type Approval applications.</p><p>The Ministry’s electronic services platform identifies Type Approval and import authorization services for telecommunications equipment and provides information for companies seeking regulatory approval.</p><p>Products That May Be Affected</p><p>The regulatory process may apply to a broad range of telecommunications and wireless products, including:</p><p>Wireless communication equipment</p><p>RF equipment</p><p>Wi-Fi and Bluetooth devices</p><p>Cellular and mobile equipment</p><p>IoT devices</p><p>Networking equipment</p><p>Satellite communication equipment</p><p>Radio communication equipment</p><p>Other telecommunications and ICT equipment subject to applicable requirements</p><p>What Manufacturers Need to Know</p><p>Manufacturers and exporters planning to supply products to Aden-administered areas should determine the applicable regulatory pathway before shipment.</p><p>The destination and distribution plan should be established at the beginning of the compliance process, as Type Approval issued through the Sana’a and Aden authorities should not be assumed to be mutually recognized.</p><p>Applicants should prepare the technical documentation required for the applicable authority, including product specifications, technical catalogues, manufacturer's Declaration of Conformity, relevant test reports and other supporting documents.</p><p>Market Access Considerations</p><p>The development of a separate Aden Type Approval pathway is particularly relevant to international manufacturers whose products enter Yemen through southern ports or are intended for distribution in Aden-administered areas.</p><p>Companies with products intended for multiple regions of Yemen should assess the regulatory requirements for each destination before shipment.</p><p>Manufacturers should also consider the applicable customs and import procedures and coordinate their documentation with the local importer or representative.</p><p>Preparing for Type Approval</p><p>Before submitting an application, manufacturers should ensure that the product model, technical specifications, test reports and conformity documentation are consistent.</p><p>A complete technical file can help reduce additional information requests during regulatory review and facilitate the market-entry process.</p><p>AFAQ JOOD Regulatory Support</p><p>AFAQ JOOD supports international manufacturers, exporters and technology companies with Type Approval and regulatory compliance coordination across selected markets in the Middle East and Africa.</p><p>For products intended for Yemen, our team can assist manufacturers in identifying the applicable regulatory pathway, preparing technical documentation and coordinating the approval process with relevant local stakeholders.</p><p>Manufacturers planning to supply telecommunications, wireless, RF or ICT equipment to Aden-administered areas should assess the applicable Type Approval requirements before shipment.</p><p>Regulatory requirements may vary according to the product category, technology and destination. Manufacturers should verify the applicable requirements for their specific equipment before entering the Yemeni market.<br></p>"
+    },
+    "whatKnow": {
+      "en": "<p>Manufacturers and exporters planning to supply telecommunications equipment to Aden-controlled areas should assess the Aden Type Approval pathway separately from the Sana’a process. Companies should determine the intended destination of their products before selecting the applicable certification route and prepare the technical documentation required by the relevant authority</p>"
+    },
+    "sourceName": "Ministry of Telecommunications and Information Technology – Yemen, Aden",
+    "sourceUrl": "https://yafeapedia.interactive-system.com/%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA/?",
+    "sourceType": "Official Regulatory Authority",
+    "image": "/assets/news/ye/yemens-aden-authority-establishes-a-separate-type-approval-pathway.jpg"
+  },
+  {
+    "id": "news-1789567002608",
+    "slug": "lebanon-tra-clarifies-manufacturer-based-type-approval-certificates",
+    "status": "published",
+    "country": "Lebanon",
+    "countryCode": "LB",
+    "countryKey": "LB__lebanon__8",
+    "countrySlug": "lebanon",
+    "countryName": {
+      "en": "Lebanon"
+    },
+    "authority": "TRA",
+    "category": "Regulatory Update",
+    "date": "2026-09-16",
+    "publishedAt": "2026-09-16T14:09:55.510Z",
+    "updatedAt": "2026-09-16T14:09:55.510Z",
+    "author": "AFAQ JOOD Regulatory Intelligence Team",
+    "impact": "high",
+    "featured": true,
+    "products": [
+      "Telecommunications equipment Radio and wireless equipment RF equipment Wi-Fi and Bluetooth devices Cellular and mobile equipment IoT and connected devices Telecommunications modules Embedded telecom-enabled equipment Radio components Telecommunications terminal equipment Other products subject to Lebanon Type Approval requirements"
+    ],
+    "tags": [
+      "Lebanon Type Approval",
+      "Lebanon TRA",
+      "Lebanon telecommunications regulations",
+      "Lebanon Type Approval requirements",
+      "Lebanon RF approval",
+      "Lebanon wireless approval",
+      "Lebanon telecom equipment approval",
+      "Lebanon regulatory compliance",
+      "Lebanon market access",
+      "TRA Lebanon",
+      "Type Approval Certificate",
+      "manufacturer Type Approval",
+      "telecom equipment Lebanon",
+      "wireless equipment Lebanon",
+      "RF equipment Lebanon",
+      "IoT Lebanon"
+    ],
+    "title": {
+      "en": "Lebanon TRA Clarifies Manufacturer-Based Type Approval Certificates"
+    },
+    "summary": {
+      "en": "Lebanon’s Telecommunications Regulatory Authority (TRA) has issued a clarification on the Type Approval procedure for telecom-enabled equipment, addressing the relationship between manufacturers, approved models, and importers."
+    },
+    "body": {
+      "en": "<p>Lebanon TRA Clarifies Manufacturer-Based Type Approval Certificates</p><p>Lebanon’s Telecommunications Regulatory Authority (TRA) has issued a clarification concerning the Type Approval procedure for equipment with telecommunications capabilities.</p><p>On September 2, 2026, the TRA issued Notification No. TRA/PRE/327-020926, addressing the relationship between Type Approval applications, manufacturers, approved models, and the importation of identical products into Lebanon.</p><p>According to the notification, as reported by specialist regulatory compliance sources, a Type Approval application may be submitted in the name of the manufacturer, either directly by the manufacturer or through an authorized representative.</p><p>The corresponding Type Approval Certificate is issued in the manufacturer’s name for the specific approved model or product. The notification states that importers bringing the identical approved product into Lebanon may rely on the manufacturer-based Type Approval, provided that the imported equipment corresponds to the approved model and technical specifications covered by the valid certificate.</p><p>What Manufacturers Need to Know</p><p>Manufacturers supplying telecommunications and radio-enabled products to Lebanon should ensure that the product model, technical specifications, telecommunications functions, and supporting documentation submitted for Type Approval accurately correspond to the products intended for importation.</p><p>The clarification is particularly relevant to international manufacturers whose products may be supplied to the Lebanese market through multiple importers or distributors.</p><p>Manufacturers may submit applications directly or through an authorized representative, depending on the applicable procedure and representation arrangements.</p><p>Affected Products</p><p>The clarification is relevant to telecommunications-enabled products, including:</p><p>Telecommunications equipment</p><p>Radio and wireless equipment</p><p>RF equipment</p><p>Wi-Fi and Bluetooth devices</p><p>Cellular and mobile equipment</p><p>IoT and connected devices</p><p>Telecommunications modules</p><p>Embedded telecommunications equipment</p><p>Radio components</p><p>Telecommunications terminal equipment</p><p>Other products subject to Lebanon Type Approval requirements</p><p>Technical Compliance</p><p>The TRA Type Approval framework requires applicants to provide appropriate technical documentation and evidence of compliance.</p><p>Depending on the equipment, the Technical Compliance Folder may include technical data sheets, user manuals, product specifications, drawings and schematics, antenna information for wireless equipment, product photographs, applicable technical standards, and third-party test reports.</p><p>The TRA states that recognized laboratory test results should come from laboratories accredited according to ISO/IEC 17025 through an appropriate accreditation body or an ILAC member.</p><p>Applicants are also required to prepare a Declaration of Conformity with the applicable specifications.</p><p>Regulatory Framework</p><p>The issuance of Type Approval certificates is currently handled by Lebanon’s Telecommunications Regulatory Authority (TRA). The TRA also maintains the current Type Approval Regulation, application procedures, forms, and technical requirements on its official website.</p><p>The TRA’s current regulatory framework was updated following the transfer of Type Approval certification responsibilities from the Ministry of Telecommunications to the TRA in accordance with the applicable regulatory decisions.</p><p>Important Regulatory Note</p><p>The September 2, 2026 notification has been reported by specialist regulatory compliance sources as clarifying the use of manufacturer-based Type Approval for identical products.</p><p>However, manufacturers and importers should verify the applicable procedure directly with the TRA before relying on the clarification for a specific shipment, as the TRA’s currently published FAQ pages contain additional provisions concerning importer-specific Type Approval certificates and importation procedures.</p><p>Companies should therefore confirm the applicable certificate structure and documentation requirements with the TRA for each product and import scenario.</p><p>What This Means for Manufacturers</p><p>International manufacturers planning to enter the Lebanese market should review their Type Approval strategy before shipping products.</p><p>Particular attention should be given to:</p><p>Manufacturer and authorized representative information</p><p>Exact product and model identification</p><p>Technical specifications</p><p>Radio and telecommunications functions</p><p>Test reports</p><p>Declaration of Conformity</p><p>Technical Compliance Folder</p><p>Applicable Type Approval classification</p><p>Importation and customs requirements</p><p>TRA labeling requirements</p><p>AFAQ JOOD Regulatory Support</p><p>AFAQ JOOD supports manufacturers, OEMs, ODMs, exporters, distributors, and technology companies with Type Approval and regulatory coordination across Middle East and African markets.</p><p>Our team can assist with regulatory assessment, technical documentation, manufacturer authorization, application preparation, Type Approval coordination, and regulatory follow-up for telecommunications, RF, wireless, IoT, and other regulated technology products entering the Lebanese market.<br></p>"
+    },
+    "whatKnow": {
+      "en": "<p>The Lebanese Telecommunications Regulatory Authority (TRA) issued Notification No. TRA/PRE/327-020926 on September 2, 2026, clarifying the Type Approval procedure for equipment with telecommunications capabilities.</p><p>According to the notification as reported by specialist regulatory compliance sources, the Type Approval application may be submitted in the name of the manufacturer, either directly by the manufacturer or through an authorized representative.</p><p>The resulting Type Approval Certificate is issued in the manufacturer’s name for the specific approved model or product. The notification states that importers bringing the identical approved product into Lebanon may rely on the manufacturer-based Type Approval, provided that the imported equipment corresponds to the approved model and technical specifications.</p><p>Manufacturers should therefore ensure that the model number, product specifications, telecommunications functions, and technical documentation submitted for Type Approval accurately correspond to the products intended for the Lebanese market.</p>"
+    },
+    "sourceName": "Telecommunications Regulatory Authority of Lebanon (TRA) – Notification TRA/PRE/327-020926",
+    "sourceUrl": "https://www.tra.gov.lb/Type-approval-Regulation?",
+    "sourceType": "Official Regulatory Authority",
+    "image": "/assets/news/lb/lebanon-tra-clarifies-manufacturer-based-type-approval-certificates.jpg"
+  },
+  {
+    "id": "news-1789567311593",
+    "slug": "nigeria-ncc-strengthens-type-approval-compliance-for-sim-enabled-devices",
+    "status": "published",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "countryKey": "NG__nigeria__30",
+    "countrySlug": "nigeria",
+    "countryName": {
+      "en": "Nigeria"
+    },
+    "authority": "NCC",
+    "category": "Regulatory Update",
+    "date": "2026-09-16",
+    "publishedAt": "2026-09-16T14:09:55.511Z",
+    "updatedAt": "2026-09-16T14:09:55.511Z",
+    "author": "AFAQ JOOD Regulatory Intelligence Team",
+    "impact": "high",
+    "featured": false,
+    "products": [
+      "Mobile phones SIM-enabled devices Cellular communication equipment IoT devices with cellular connectivity Wireless communication devices Telecommunications terminals Connected devices Devices containing IMEI identifiers Other communication equipment subject to NCC Type Approval"
+    ],
+    "tags": [
+      "Nigeria Type Approval",
+      "Nigeria NCC",
+      "NCC Type Approval",
+      "Nigeria telecom regulations",
+      "Nigeria RF approval",
+      "Nigeria wireless approval",
+      "Nigeria mobile device approval",
+      "Nigeria IoT approval",
+      "SIM-enabled devices Nigeria",
+      "NCC DMS",
+      "Device Management System Nigeria",
+      "CEIR Nigeria",
+      "IMEI Nigeria",
+      "Nigeria regulatory compliance",
+      "Nigeria market access"
+    ],
+    "title": {
+      "en": "Nigeria NCC Strengthens Type Approval Compliance for SIM-Enabled Devices"
+    },
+    "summary": {
+      "en": "Nigeria’s Communications Commission (NCC) is strengthening Type Approval compliance for SIM-enabled communication devices through a technology-based compliance framework supported by a Device Management System (DMS)."
+    },
+    "body": {
+      "en": "<p>Nigeria NCC Strengthens Type Approval Compliance for SIM-Enabled Devices</p><p>Nigeria’s Communications Commission (NCC) is strengthening Type Approval compliance for communication devices through a technology-based regulatory framework designed to improve the identification and verification of compliant equipment.</p><p>The initiative focuses particularly on communication devices equipped with SIM functionality and introduces a Device Management System (DMS) as a technological platform supporting automated Type Approval compliance monitoring.</p><p>According to the NCC, the framework is intended to make Type Approval compliance more efficient and consistent while strengthening oversight of communication devices entering, being sold, and operating in Nigeria.</p><p>Type Approval Requirement</p><p>Under Section 132(2) of the Nigerian Communications Act 2003, communication equipment covered by the applicable requirements must obtain Type Approval from the NCC before being sold or used in Nigeria.</p><p>The new compliance framework strengthens the Commission’s ability to verify whether devices entering the Nigerian market have satisfied the applicable Type Approval requirements.</p><p>Device Management System</p><p>The Device Management System (DMS) will support the automated verification of communication devices and their Type Approval status.</p><p>The NCC has stated that the implementation is being carried out in cooperation with key stakeholders, including the Nigeria Customs Service, Original Equipment Manufacturers (OEMs), importers, and relevant market associations.</p><p>The initial implementation focuses on incorporating devices already in the market and ensuring that future imported devices are appropriately registered and authenticated.</p><p>Central Equipment Identity Register</p><p>The NCC has linked the implementation of the new compliance framework to the Central Equipment Identity Register (CEIR), established under the Type Approval Business Rules issued in August 2024.</p><p>The CEIR maintains records associated with communication devices operating in Nigeria, including International Mobile Equipment Identity (IMEI) information for applicable devices.</p><p>According to the NCC, the centralized system is intended to strengthen the Commission’s ability to identify devices that do not comply with applicable regulatory requirements.</p><p>Impact on SIM-Enabled Devices</p><p>The NCC has stated that SIM-enabled communication devices entering Nigeria will be subject to the applicable registration and authentication requirements.</p><p>Devices that have not been properly registered and authenticated may be prevented from operating on Nigerian mobile networks under the applicable framework.</p><p>The system is also intended to help identify illegally imported or non-compliant devices and support the identification of devices reported as stolen.</p><p>Affected Products</p><p>The development is particularly relevant to:</p><p>Mobile phones</p><p>SIM-enabled communication devices</p><p>Cellular equipment</p><p>IoT devices with cellular connectivity</p><p>Wireless communication equipment</p><p>Telecommunications terminal equipment</p><p>Connected devices containing IMEI identifiers</p><p>Other communication equipment subject to NCC Type Approval requirements</p><p>What Manufacturers and Importers Need to Know</p><p>Manufacturers, OEMs, exporters, and importers supplying communication equipment to Nigeria should ensure that applicable Type Approval requirements are completed before products are introduced into the Nigerian market.</p><p>Companies should maintain consistency between the products submitted for Type Approval and the equipment subsequently imported and distributed in Nigeria.</p><p>Particular attention should be given to:</p><p>Product model identification</p><p>IMEI and device identity information where applicable</p><p>Technical specifications</p><p>Test reports</p><p>Declaration of Conformity</p><p>Technical construction documentation</p><p>Product and equipment labeling</p><p>Type Approval certification</p><p>Applicable registration and authentication requirements</p><p>Manufacturers should also monitor the implementation of the DMS and CEIR framework as the NCC continues to strengthen automated compliance verification.</p><p>Regulatory Framework</p><p>The NCC currently publishes the Type Approval Regulations 2024 and Type Approval Business Rules 2024 as part of its regulatory framework for telecommunications equipment.</p><p>The Commission maintains a list of approved telecommunications equipment and continues to update its regulatory and Type Approval resources.</p><p>AFAQ JOOD Regulatory Support</p><p>AFAQ JOOD supports manufacturers, OEMs, ODMs, exporters, distributors, and technology companies with Type Approval and regulatory coordination across Middle East and African markets.</p><p>Our team can assist with regulatory assessment, technical documentation, manufacturer authorization, application preparation, Type Approval coordination, and regulatory follow-up for telecommunications, RF, wireless, IoT, cellular, and other regulated technology products entering the Nigerian market.<br></p>"
+    },
+    "whatKnow": {
+      "en": "<p>The Nigerian Communications Commission (NCC) is strengthening enforcement of Type Approval requirements for communication devices imported, sold, and used in Nigeria.</p><p>The new technology-based compliance framework is supported by a Device Management System (DMS), which enables the NCC to electronically verify Type Approval compliance for SIM-enabled devices.</p><p>The initiative is being implemented in cooperation with key stakeholders, including the Nigeria Customs Service, original equipment manufacturers (OEMs), importers, and relevant market associations.</p><p>Manufacturers and importers should ensure that communication devices entering the Nigerian market have the required Type Approval and are properly registered within the applicable regulatory framework.</p>"
+    },
+    "sourceName": "Nigerian Communications Commission (NCC)",
+    "sourceUrl": "https://ncc.gov.ng/media-centre/press-releases/ncc-strengthens-type-approval-compliance-sim-enabled-devices-nigeria?",
+    "sourceType": "Official Regulatory Authority",
+    "image": "/assets/news/ng/nigeria-ncc-strengthens-type-approval-compliance-for-sim-enabled-devices.jpg"
+  },
+  {
+    "id": "news-1789567550381",
+    "slug": "kenya-opens-consultation-on-new-technical-specifications-for-network-equipment",
+    "status": "published",
+    "country": "Kenya",
+    "countryCode": "KE",
+    "countryKey": "KE__kenya__26",
+    "countrySlug": "kenya",
+    "countryName": {
+      "en": "Kenya"
+    },
+    "authority": "Communications Authority of Kenya",
+    "category": "Regulatory Update",
+    "date": "2026-09-16",
+    "publishedAt": "2026-09-16T14:09:55.511Z",
+    "updatedAt": "2026-09-16T14:09:55.511Z",
+    "author": "AFAQ JOOD Regulatory Intelligence Team",
+    "impact": "high",
+    "featured": false,
+    "products": [
+      "Routers Switches Network equipment Enterprise networking equipment Wireless networking equipment Telecommunications equipment Data communication equipment Network infrastructure equipment RF and wireless network devices Other equipment subject to Kenya Type Approval"
+    ],
+    "tags": [
+      "Kenya Type Approval",
+      "Kenya Communications Authority",
+      "Kenya CA",
+      "Kenya network equipment",
+      "Kenya Type Approval requirements",
+      "Kenya telecom regulations",
+      "Kenya RF approval",
+      "Kenya wireless approval",
+      "Kenya routers approval",
+      "Kenya networking equipment approval",
+      "Kenya ICT compliance",
+      "Kenya market access",
+      "Communications Authority Kenya",
+      "Type Approval 2026"
+    ],
+    "title": {
+      "en": "Kenya Opens Consultation on New Technical Specifications for Network Equipment"
+    },
+    "summary": {
+      "en": "Kenya’s Communications Authority has opened a public consultation on proposed Technical Specifications for Network Equipment, 2026, which will guide the Type Approval of network equipment sold and used in Kenya."
+    },
+    "body": {
+      "en": "<p>Kenya Opens Consultation on New Technical Specifications for Network Equipment</p><p>Kenya’s Communications Authority (CA) has opened a public consultation on proposed Technical Specifications for Network Equipment, 2026.</p><p>The proposed specifications are intended to guide the Type Approval process for network equipment sold and used in Kenya. The Authority has invited members of the public and stakeholders in the ICT sector to review the proposed requirements and submit their representations by September 30, 2026.</p><p>The consultation represents an important regulatory development for manufacturers, vendors, importers, distributors, and technology companies supplying network infrastructure and communications equipment to the Kenyan market.</p><p>What Manufacturers Need to Know</p><p>The Communications Authority is responsible for the Type Approval and acceptance of telecommunications and radio communication equipment intended for use in Kenya.</p><p>Under the proposed 2026 specifications, network equipment will be assessed against the applicable technical requirements before being introduced into the Kenyan market.</p><p>Manufacturers and suppliers should review the proposed specifications and evaluate whether their products and existing technical documentation remain aligned with the requirements that may apply following the regulatory process.</p><p>Affected Products</p><p>The proposed framework is particularly relevant to:</p><p>Routers</p><p>Network switches</p><p>Enterprise networking equipment</p><p>Wireless networking equipment</p><p>Data communication equipment</p><p>Telecommunications network equipment</p><p>Network infrastructure equipment</p><p>RF and wireless network devices</p><p>Other communications equipment subject to Kenya Type Approval requirements</p><p>Type Approval in Kenya</p><p>The Communications Authority requires communications equipment intended to operate within public telecommunications networks in Kenya to undergo Type Approval or Type Acceptance, as applicable.</p><p>The Authority's Type Approval framework covers a wide range of equipment, including mobile cellular devices, radio communication equipment, routers, modems, switches, satellite equipment, and other telecommunications products.</p><p>Type Approval is generally carried out for each equipment model, while changes to the model, design, or specifications may require the equipment to be submitted again for approval.</p><p>Technical Compliance</p><p>The CA evaluates Type Approval applications using technical documentation and conformity evidence.</p><p>Depending on the equipment category, manufacturers and applicants may be required to provide technical manuals, user manuals, conformity certificates, and applicable RF, EMC, and safety test reports.</p><p>Manufacturers should ensure that the documentation submitted for Type Approval accurately represents the commercial version of the equipment intended for the Kenyan market.</p><p>Public Consultation</p><p>The Communications Authority has invited ICT industry stakeholders and members of the public to provide comments on the proposed Technical Specifications for Network Equipment, 2026.</p><p>Submissions are being accepted until September 30, 2026.</p><p>The consultation is intended to provide stakeholders with an opportunity to review the proposed technical framework and provide feedback before the regulatory requirements are finalized.</p><p>What This Means for Manufacturers</p><p>Companies planning to introduce network equipment into Kenya should monitor the outcome of the consultation and review the proposed technical specifications.</p><p>Manufacturers should pay particular attention to:</p><p>Product model identification</p><p>Technical specifications</p><p>RF characteristics where applicable</p><p>EMC compliance</p><p>Safety requirements</p><p>Network interoperability</p><p>Technical manuals</p><p>Test reports</p><p>Declarations and conformity documentation</p><p>Type Approval documentation</p><p>Manufacturers with products already being prepared for the Kenyan market should also monitor any changes resulting from the consultation before finalizing future compliance submissions.</p><p>AFAQ JOOD Regulatory Support</p><p>AFAQ JOOD supports manufacturers, OEMs, ODMs, exporters, distributors, and technology companies with Type Approval and regulatory coordination across Middle East and African markets.</p><p>Our team can assist with regulatory assessment, technical documentation, manufacturer authorization, application preparation, Type Approval coordination, and regulatory follow-up for telecommunications, RF, wireless, IoT, networking, and other regulated technology products entering the Kenyan market.<br></p>"
+    },
+    "whatKnow": {
+      "en": "<p>Kenya’s Communications Authority (CA) has developed proposed Technical Specifications for Network Equipment, 2026, to guide the Type Approval process for network equipment sold and used in Kenya.</p><p>The Authority has invited members of the public and ICT sector stakeholders to submit comments on the proposed specifications by September 30, 2026.</p><p>Manufacturers, vendors, importers, distributors, and other stakeholders supplying network equipment to Kenya should review the proposed technical requirements and assess their potential impact on existing and future Type Approval applications.</p>"
+    },
+    "sourceName": "Communications Authority of Kenya (CA)",
+    "sourceUrl": "https://www.ca.go.ke/open-consultations?",
+    "sourceType": "Official Regulatory Authority",
+    "image": "/assets/news/ke/kenya-opens-consultation-on-new-technical-specifications-for-network-equipment.jpg"
+  },
+  {
+    "id": "news-1789567790343",
+    "slug": "south-africa-icasa-reinforces-equipment-type-approval-requirements",
+    "status": "published",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "countryKey": "ZA__south-africa__31",
+    "countrySlug": "south-africa",
+    "countryName": {
+      "en": "South Africa"
+    },
+    "authority": "ICASA",
+    "category": "Regulatory Update",
+    "date": "2026-09-16",
+    "publishedAt": "2026-09-16T14:09:55.511Z",
+    "updatedAt": "2026-09-16T14:09:55.511Z",
+    "author": "AFAQ JOOD Regulatory Intelligence Team",
+    "impact": "high",
+    "featured": false,
+    "products": [
+      "RF equipment Radio equipment Wireless devices Mobile phones Routers Modems Wi-Fi equipment Bluetooth devices IoT equipment Telecommunications terminal equipment Two-way radios Satellite and wireless communication equipment Other electronic communications equipment subject to ICASA Type Approval"
+    ],
+    "tags": [
+      "South Africa Type Approval",
+      "ICASA Type Approval",
+      "ICASA",
+      "South Africa telecom regulations",
+      "South Africa RF approval",
+      "South Africa wireless approval",
+      "South Africa telecommunications equipment approval",
+      "South Africa radio equipment approval",
+      "ICASA equipment approval",
+      "ICASA certification",
+      "South Africa regulatory compliance",
+      "South Africa market access",
+      "South Africa ICT compliance",
+      "South Africa IoT approval",
+      "South Africa WiFi approval",
+      "South Africa Bluetooth approval",
+      "South Africa mobile device approval",
+      "South Africa router approval",
+      "South Africa modem approval",
+      "ICASA RF compliance",
+      "ICASA EMC requirements",
+      "ICASA equipment authorisation",
+      "South Africa telecom equipment",
+      "South Africa radio frequency compliance"
+    ],
+    "title": {
+      "en": "South Africa ICASA Reinforces Equipment Type Approval Requirements"
+    },
+    "summary": {
+      "en": "South Africa’s ICASA maintains strict Equipment Type Approval requirements for telecommunications and radio equipment, with compliance covering applicable technical standards, RF, EMC, safety, documentation, and local applicant requirements."
+    },
+    "body": {
+      "en": "<p>South Africa ICASA Reinforces Equipment Type Approval Requirements</p><p>South Africa’s Independent Communications Authority of South Africa (ICASA) maintains a comprehensive Equipment Type Approval framework for telecommunications and radio equipment used, supplied, sold, or imported into the country.</p><p>Under South Africa’s regulatory framework, electronic communications equipment and radio apparatus intended for use in connection with electronic communications must obtain Type Approval from ICASA unless the equipment is specifically exempted.</p><p>The framework is designed to ensure that equipment placed on the South African market complies with the applicable technical standards and regulatory requirements.</p><p>What Manufacturers Need to Know</p><p>Manufacturers, importers, distributors, and technology companies supplying telecommunications equipment to South Africa should ensure that their products meet the applicable ICASA requirements before the equipment is imported, supplied, or offered for sale.</p><p>ICASA states that Type Approval applications can be submitted by manufacturers, importers, distributors, or South African registered companies. However, the Type Approval Certificate is issued to a South African registered company.</p><p>This makes the local applicant structure an important consideration for international manufacturers entering the South African market.</p><p>Technical Compliance Requirements</p><p>The ICASA Type Approval process involves assessment of the equipment against the applicable technical standards.</p><p>Depending on the equipment category, the compliance process may involve:</p><p>Performance testing</p><p>Radio frequency testing</p><p>Electromagnetic compatibility (EMC) testing</p><p>Safety testing</p><p>Technical documentation</p><p>Product photographs</p><p>User manuals</p><p>Functional descriptions</p><p>Schematic diagrams</p><p>PCB information where applicable</p><p>Conformity test reports from recognized laboratories</p><p>Manufacturers should ensure that submitted test reports correspond exactly to the equipment and model submitted for approval.</p><p>Applicable Equipment</p><p>The ICASA framework is relevant to a broad range of products, including:</p><p>RF equipment</p><p>Radio equipment</p><p>Mobile phones</p><p>Routers</p><p>Modems</p><p>Wi-Fi equipment</p><p>Bluetooth devices</p><p>Wireless communication equipment</p><p>IoT devices</p><p>Two-way radios</p><p>Telecommunications terminal equipment</p><p>Satellite and wireless communication equipment</p><p>Other electronic communications equipment subject to ICASA requirements</p><p>Standard and Simplified Type Approval</p><p>ICASA provides both Standard and Simplified Type Approval procedures.</p><p>Equipment that has not previously received Type Approval generally follows the Standard Type Approval process.</p><p>Where equipment is already listed on the ICASA Type Approval Register and the equipment being submitted is identical to the previously approved equipment, the Simplified Type Approval process may apply.</p><p>The simplified route can reduce the documentation required during the application, although ICASA may request a representative sample when necessary.</p><p>Type Approval Validity</p><p>ICASA states that Type Approvals are generally valid for an unlimited period provided that the approved equipment is not modified and that applicable technical standards have not changed in a way that invalidates the approval.</p><p>Manufacturers should therefore monitor both product changes and regulatory standard updates after approval.</p><p>Type Approval Database</p><p>ICASA maintains a database of Type Approved equipment.</p><p>Manufacturers and importers can use the database to verify whether equipment has previously been approved and determine whether a Simplified Type Approval route may be applicable.</p><p>Labelling Requirements</p><p>Approved equipment is subject to ICASA labelling requirements.</p><p>Manufacturers and suppliers should ensure that the applicable ICASA identification and labelling requirements are followed for approved equipment and its packaging.</p><p>Importance for International Manufacturers</p><p>International manufacturers planning to enter the South African market should consider the local applicant requirement at an early stage of the compliance process.</p><p>The manufacturer should also ensure that the product submitted for approval is technically identical to the equipment intended for commercial importation and distribution.</p><p>Changes to radio characteristics, technical specifications, hardware, or other regulated elements may affect the approval status and should be assessed before products are introduced into the market.</p><p>AFAQ JOOD Regulatory Support</p><p>AFAQ JOOD supports manufacturers, OEMs, ODMs, exporters, distributors, and technology companies with Type Approval and regulatory coordination across Middle East and African markets.</p><p>Our team can assist with regulatory assessment, technical documentation, manufacturer authorization, local applicant coordination, Type Approval applications, compliance documentation, and regulatory follow-up for telecommunications, RF, wireless, IoT, networking, and other regulated technology products entering the South African market.<br></p>"
+    },
+    "whatKnow": {
+      "en": "<p>Manufacturers, importers, distributors, and technology companies supplying telecommunications and radio equipment to South Africa should ensure that their products comply with the applicable ICASA Type Approval requirements before importation, sale, or use.</p><p>International manufacturers should pay particular attention to the local applicant requirement, as ICASA Type Approval Certificates are issued to South African registered companies.</p><p>Depending on the equipment category, applicants may need to provide technical documentation, product specifications, user manuals, photographs, declarations of conformity, and applicable RF, EMC, safety, and performance test reports from recognized laboratories.</p><p>Manufacturers should also ensure that the equipment submitted for Type Approval is technically identical to the equipment intended for commercial importation and distribution in South Africa.</p><p>Changes to the product’s hardware, radio characteristics, technical specifications, or other regulated features may require regulatory assessment and could affect the existing Type Approval.</p><p>Companies should also verify the ICASA Type Approval Register before submitting a new application, as equipment that is identical to an already approved model may qualify for the applicable simplified procedure.</p>"
+    },
+    "sourceName": "Independent Communications Authority of South Africa (ICASA)",
+    "sourceUrl": "https://www.icasa.org.za/pages/type-approval?",
+    "sourceType": "Official Regulatory Authority",
+    "image": "/assets/news/za/south-africa-icasa-reinforces-equipment-type-approval-requirements.jpg"
   }
 ]
