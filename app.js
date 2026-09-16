@@ -259,7 +259,7 @@
   }
 
   function applyLanguage(lang){
-    lang=T[lang]?lang:'en';localStorage.setItem(langStore,lang);const d=T[lang];document.documentElement.lang=lang;document.documentElement.dir=lang==='ar'?'rtl':'ltr';if(!$('#countryPage'))document.title=d.pageTitle;const meta=document.querySelector('meta[data-meta-i18n]');if(meta&&d[meta.dataset.metaI18n]!==undefined)meta.setAttribute('content',d[meta.dataset.metaI18n]);
+    lang=T[lang]?lang:'en';localStorage.setItem(langStore,lang);const d=T[lang];document.documentElement.lang=lang;document.documentElement.dir=lang==='ar'?'rtl':'ltr';if(!$('#countryPage')&&!$('#newsPageGrid'))document.title=d.pageTitle;const meta=document.querySelector('meta[data-meta-i18n]');if(meta&&d[meta.dataset.metaI18n]!==undefined)meta.setAttribute('content',d[meta.dataset.metaI18n]);
     $$('[data-i18n]').forEach(el=>{const k=el.dataset.i18n;if(d[k]!==undefined)el.textContent=d[k]});
     $$('[data-placeholder]').forEach(el=>{const k=el.dataset.placeholder;if(d[k])el.placeholder=d[k]});$$('[data-aria-i18n]').forEach(el=>{const k=el.dataset.ariaI18n;if(d[k]!==undefined)el.setAttribute('aria-label',d[k])});$$('[data-alt-i18n]').forEach(el=>{const k=el.dataset.altI18n;if(d[k]!==undefined)el.alt=d[k]});
     $$('.langBtn').forEach(b=>b.classList.toggle('active',b.dataset.lang===lang));
