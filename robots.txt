@@ -4,3 +4,4 @@ Disallow: /admin.html
 Disallow: /news-manager/
 Sitemap: https://afaqjood.com/sitemap.xml
 Sitemap: https://afaqjood.com/news-sitemap.xml
+Sitemap: https://afaqjood.com/image-sitemap.xml
