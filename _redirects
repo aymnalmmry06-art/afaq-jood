@@ -1,3 +1,5 @@
 /news/* /news-article.html?slug=:splat 200
+/type-approval/yemen-aden /type-approval/yemen 301
+/type-approval/yemen-sanaa /type-approval/yemen 301
 /type-approval/* /country.html 200
 /api/news-admin /.netlify/functions/news-admin 200
