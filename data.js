@@ -455,7 +455,7 @@ window.AFAQ_COUNTRIES = [
     "samples": "Not required",
     "localTesting": "Not required",
     "ceReports": "Conformity certificates and test reports are listed among service requirements",
-    "leadTime": "To be confirmed with the applicable filing office.",
+    "leadTime": "4–8 weeks",
     "validity": "2 years",
     "documents": "Completed, stamped and signed Type Approval application form • Test reports • Declaration of Conformity (DoC) • Authorization documents • User manual • Schematic diagram • Datasheet • Internal and external product photographs",
     "certificateType": "RF Type Approval",
