@@ -451,7 +451,7 @@ window.AFAQ_COUNTRIES = [
     "region": "Middle East",
     "authority": "MTIT — Sana'a & Aden",
     "authorityAbbr": "MTIT",
-    "scope": "RF Type Approval",
+    "scope": "Yemen Type Approval for any product with RF, radio-frequency or wireless functionality",
     "samples": "Not required",
     "localTesting": "Not required",
     "ceReports": "Conformity certificates and test reports are listed among service requirements",
@@ -459,7 +459,7 @@ window.AFAQ_COUNTRIES = [
     "validity": "2 years",
     "documents": "Completed, stamped and signed Type Approval application form • Test reports • Declaration of Conformity (DoC) • Authorization documents • User manual • Schematic diagram • Datasheet • Internal and external product photographs",
     "certificateType": "RF Type Approval",
-    "why": "Type Approval supports compliant market entry for regulated telecommunications, radio and connected technology products where the applicable national framework requires approval.",
+    "why": "Yemen Type Approval can apply to any product that contains RF, radio-frequency, wireless or telecom functionality. This includes equipment using Wi-Fi, Bluetooth, cellular, GNSS, radio modules or other transmitting and receiving frequencies.",
     "products": [
       "Telecom Equipment",
       "Wi-Fi & Bluetooth",
